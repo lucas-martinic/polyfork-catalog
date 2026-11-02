@@ -1,6 +1,6 @@
 # Buildings
 
-374 free low-poly models. [All types](../README.md#browse-by-type)
+376 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -51,6 +51,8 @@
 | [Campus Railing Run](https://polyfork.dev/asset/campus-railing-run-2ceb3e) | [University](../kits/university-959b66.md) | 256 | [GLB](https://polyfork.dev/cdn/campus-railing-run-2ceb3e.glb) · [module](https://polyfork.dev/cdn/campus-railing-run-2ceb3e.mjs) |
 | [Campus Wall Run](https://polyfork.dev/asset/campus-wall-run-6a35e0) | [University](../kits/university-959b66.md) | 520 | [GLB](https://polyfork.dev/cdn/campus-wall-run-6a35e0.glb) · [module](https://polyfork.dev/cdn/campus-wall-run-6a35e0.mjs) |
 | [Capsule Residential Tower](https://polyfork.dev/asset/capsule-residential-tower-80300b) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 1,198 | [GLB](https://polyfork.dev/cdn/capsule-residential-tower-80300b.glb) · [module](https://polyfork.dev/cdn/capsule-residential-tower-80300b.mjs) |
+| [Carved Lair Gate](https://polyfork.dev/asset/carved-lair-gate-00d8a5) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 2,194 | [GLB](https://polyfork.dev/cdn/carved-lair-gate-00d8a5.glb) · [module](https://polyfork.dev/cdn/carved-lair-gate-00d8a5.mjs) |
+| [Carved Roost Dais](https://polyfork.dev/asset/carved-roost-dais-546bd9) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 1,186 | [GLB](https://polyfork.dev/cdn/carved-roost-dais-546bd9.glb) · [module](https://polyfork.dev/cdn/carved-roost-dais-546bd9.mjs) |
 | [Cashier Cage Module](https://polyfork.dev/asset/cashier-cage-module-c211d3) | [Hotel Casino kit](../kits/casino-3dd029.md) | 572 | [GLB](https://polyfork.dev/cdn/cashier-cage-module-c211d3.glb) · [module](https://polyfork.dev/cdn/cashier-cage-module-c211d3.mjs) |
 | [Cast Iron Loft](https://polyfork.dev/asset/cast-iron-loft-b04b5a) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 3,212 | [GLB](https://polyfork.dev/cdn/cast-iron-loft-b04b5a.glb) · [module](https://polyfork.dev/cdn/cast-iron-loft-b04b5a.mjs) |
 | [Castle Gatehouse](https://polyfork.dev/asset/castle-gatehouse-4ed5c6) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 4,036 | [GLB](https://polyfork.dev/cdn/castle-gatehouse-4ed5c6.glb) · [module](https://polyfork.dev/cdn/castle-gatehouse-4ed5c6.mjs) |

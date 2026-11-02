@@ -1,6 +1,6 @@
 # Polyfork: free low-poly 3D models
 
-**2,787 free low-poly 3D models and 26 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
+**2,791 free low-poly 3D models and 26 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
 
 [Browse on polyfork.dev](https://polyfork.dev/assets) · [Kits](#kits) · [By type](#browse-by-type) · [catalog.json](catalog.json)
 
@@ -61,7 +61,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 <tr>
 <td align="center" valign="top" width="33%"><a href="kits/3d-ui-kit-5635f7.md"><img src="covers/3d-ui-kit-5635f7.jpg" alt="3D UI kit low-poly 3D kit"><br><strong>3D UI kit</strong></a><br><sub>61 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/campground-lake-ad32b0.md"><img src="covers/campground-lake-ad32b0.jpg" alt="Campground &amp; Lake low-poly 3D kit"><br><strong>Campground &amp; Lake</strong></a><br><sub>62 parts</sub></td>
-<td align="center" valign="top" width="33%"><a href="kits/chrome-arcology-transit-kit-87a0e1.md"><img src="covers/chrome-arcology-transit-kit-87a0e1.jpg" alt="Chrome Arcology Transit kit low-poly 3D kit"><br><strong>Chrome Arcology Transit kit</strong></a><br><sub>58 parts</sub></td>
+<td align="center" valign="top" width="33%"><a href="kits/chrome-arcology-transit-kit-87a0e1.md"><img src="covers/chrome-arcology-transit-kit-87a0e1.jpg" alt="Chrome Arcology Transit kit low-poly 3D kit"><br><strong>Chrome Arcology Transit kit</strong></a><br><sub>60 parts</sub></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="kits/clockwork-hand-adornments-kit-3aeccc.md"><img src="covers/clockwork-hand-adornments-kit-3aeccc.jpg" alt="Clockwork Hand Adornments kit low-poly 3D kit"><br><strong>Clockwork Hand Adornments kit</strong></a><br><sub>50 parts</sub></td>
@@ -110,7 +110,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 - [Alpine and Snow](kits/alpine-and-snow-092f66.md), 59 parts so far
 - [Chile: Fiestas Patrias](kits/chile-fiestas-patrias-87e847.md), 58 parts so far
 - [Coast and Boardwalk](kits/coast-and-boardwalk-d883fd.md), 59 parts so far
-- [Dragons Lair](kits/dragons-lair-dark-dragon-782570.md), 7 parts so far
+- [Dragons Lair](kits/dragons-lair-dark-dragon-782570.md), 9 parts so far
 - [Dungeon & Crypt](kits/dungeon-crypt-c27d93.md), 67 parts so far
 - [Día de Muertos kit](kits/dia-de-muertos-f2f8f8.md), 60 parts so far
 - [Easter Island (Rapa Nui)](kits/easter-island-rapa-nui-368e86.md), 58 parts so far
@@ -130,8 +130,8 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 |---|--:|
 | [Characters](models/characters.md) | 193 |
 | [Animals](models/animals.md) | 118 |
-| [Buildings](models/buildings.md) | 374 |
-| [Vehicles](models/vehicles.md) | 180 |
+| [Buildings](models/buildings.md) | 376 |
+| [Vehicles](models/vehicles.md) | 182 |
 | [Props](models/props.md) | 1,768 |
 | [Terrain](models/terrain.md) | 18 |
 | [Attachments](models/attachments.md) | 48 |
