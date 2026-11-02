@@ -51,6 +51,12 @@ const gltf = await new GLTFLoader().loadAsync('https://polyfork.dev/cdn/pop-top-
 scene.add(gltf.scene);
 ```
 
+From a terminal, one command puts a model in your project, no install:
+
+```sh
+npx polyfork add pop-top-camper-van-62a322
+```
+
 Each model's page on polyfork.dev lists its knobs and has FBX, USD and OBJ too. Using Unity? There is a [connector](https://github.com/lucas-martinic/polyfork-unity-connector).
 
 ## Kits
@@ -142,7 +148,7 @@ Looking for something specific? Search [polyfork.dev/assets](https://polyfork.de
 
 ## For tools and agents
 
-[`catalog.json`](catalog.json) lists every model with its links. To search, use the [API](https://polyfork.dev/llms.txt), which needs no key for free models.
+From a shell, the [CLI](https://www.npmjs.com/package/polyfork) searches and fetches one model at a time: `npx polyfork search <words>`, then `npx polyfork add <id>`, with `--json` for structured output. [`catalog.json`](catalog.json) lists every model with its links, and the [API](https://polyfork.dev/llms.txt) needs no key for free models.
 
 ## What is in this repository
 
