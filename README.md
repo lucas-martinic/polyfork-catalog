@@ -146,7 +146,7 @@ Looking for something specific? Search [polyfork.dev/assets](https://polyfork.de
 
 ## What is in this repository
 
-An index: names, links and small kit covers. **There are no model files here**, they stay on polyfork.dev, so a link always gets the latest version of a model. The list is rebuilt every week.
+An index: names, links and small kit covers. **There are no model files here**, they stay on polyfork.dev, so a link always gets the latest version of a model. The list is generated from the live catalogue.
 
 ## Licence
 
