@@ -2,7 +2,7 @@
 
 <img src="../covers/airport-43b137.jpg" width="480" alt="Airport low-poly 3D kit">
 
-In production, 1 parts so far. Every part below is already free to use.
+In production, 1 part so far. Every part below is already free to use.
 
 [Open the kit on Polyfork](https://polyfork.dev/kit/airport-43b137) · [All kits](../README.md#kits)
 

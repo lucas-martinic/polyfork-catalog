@@ -106,7 +106,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 
 ### In production
 
-- [Airport](kits/airport-43b137.md), 1 parts so far
+- [Airport](kits/airport-43b137.md), 1 part so far
 - [Alpine and Snow](kits/alpine-and-snow-092f66.md), 59 parts so far
 - [Chile: Fiestas Patrias](kits/chile-fiestas-patrias-87e847.md), 58 parts so far
 - [Coast and Boardwalk](kits/coast-and-boardwalk-d883fd.md), 59 parts so far
