@@ -2,7 +2,7 @@
 
 <img src="../covers/easter-island-rapa-nui-368e86.jpg" width="480" alt="Easter Island (Rapa Nui) low-poly 3D kit">
 
-In production, 58 parts so far. Every part below is already free to use.
+In production, 59 parts so far. Every part below is already free to use.
 
 [Open the kit on Polyfork](https://polyfork.dev/kit/easter-island-rapa-nui-368e86) · [All kits](../README.md#kits)
 
@@ -94,5 +94,6 @@ In production, 58 parts so far. Every part below is already free to use.
 <tr>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/vaka-ama-outrigger-canoe-2fc79a"><img src="https://polyfork.dev/files/vaka-ama-outrigger-canoe-2fc79a/renders/hero.png?v=1792700139" width="150" alt="Vaka Ama Outrigger Canoe"></a><br><a href="https://polyfork.dev/asset/vaka-ama-outrigger-canoe-2fc79a">Vaka Ama Outrigger Canoe</a><br><sub><a href="https://polyfork.dev/cdn/vaka-ama-outrigger-canoe-2fc79a.glb">GLB</a> · <a href="https://polyfork.dev/cdn/vaka-ama-outrigger-canoe-2fc79a.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/walking-moai-on-ropes-15424b"><img src="https://polyfork.dev/files/walking-moai-on-ropes-15424b/renders/hero.png?v=1793380096" width="150" alt="Walking Moai on Ropes"></a><br><a href="https://polyfork.dev/asset/walking-moai-on-ropes-15424b">Walking Moai on Ropes</a><br><sub><a href="https://polyfork.dev/cdn/walking-moai-on-ropes-15424b.glb">GLB</a> · <a href="https://polyfork.dev/cdn/walking-moai-on-ropes-15424b.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/wild-horse-047e93"><img src="https://polyfork.dev/files/wild-horse-047e93/renders/hero.png?v=1793643903" width="150" alt="Wild Horse"></a><br><a href="https://polyfork.dev/asset/wild-horse-047e93">Wild Horse</a><br><sub><a href="https://polyfork.dev/cdn/wild-horse-047e93.glb">GLB</a> · <a href="https://polyfork.dev/cdn/wild-horse-047e93.mjs">module</a></sub></td>
 </tr>
 </table>

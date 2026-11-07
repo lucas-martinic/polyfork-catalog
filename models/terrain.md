@@ -1,14 +1,16 @@
 # Terrain
 
-18 free low-poly models. [All types](../README.md#browse-by-type)
+20 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
 | [Campground & Lake Terrain](https://polyfork.dev/asset/campground-lake-terrain-b5f899) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 27,564 | [GLB](https://polyfork.dev/cdn/campground-lake-terrain-b5f899.glb) · [module](https://polyfork.dev/cdn/campground-lake-terrain-b5f899.mjs) |
+| [Chile: Fiestas Patrias Terrain](https://polyfork.dev/asset/chile-fiestas-patrias-terrain-c8ce87) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 25,328 | [GLB](https://polyfork.dev/cdn/chile-fiestas-patrias-terrain-c8ce87.glb) · [module](https://polyfork.dev/cdn/chile-fiestas-patrias-terrain-c8ce87.mjs) |
 | [Chrome Arcology Transit Terrain](https://polyfork.dev/asset/chrome-arcology-transit-terrain-6425be) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 25,328 | [GLB](https://polyfork.dev/cdn/chrome-arcology-transit-terrain-6425be.glb) · [module](https://polyfork.dev/cdn/chrome-arcology-transit-terrain-6425be.mjs) |
+| [Chronos Hearth Terrain](https://polyfork.dev/asset/chronos-hearth-terrain-764465) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 19,218 | [GLB](https://polyfork.dev/cdn/chronos-hearth-terrain-764465.glb) · [module](https://polyfork.dev/cdn/chronos-hearth-terrain-764465.mjs) |
 | [Coral Reef Terrain](https://polyfork.dev/asset/coral-reef-terrain-282969) | [Coral Reef](../kits/coral-reef-a7128a.md) | 25,328 | [GLB](https://polyfork.dev/cdn/coral-reef-terrain-282969.glb) · [module](https://polyfork.dev/cdn/coral-reef-terrain-282969.mjs) |
 | [Countryside Railway Terrain](https://polyfork.dev/asset/countryside-railway-terrain-421c5b) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 17,252 | [GLB](https://polyfork.dev/cdn/countryside-railway-terrain-421c5b.glb) · [module](https://polyfork.dev/cdn/countryside-railway-terrain-421c5b.mjs) |
-| [Dragons Lair Terrain](https://polyfork.dev/asset/dragons-lair-terrain-26fac6) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 28,126 | [GLB](https://polyfork.dev/cdn/dragons-lair-terrain-26fac6.glb) · [module](https://polyfork.dev/cdn/dragons-lair-terrain-26fac6.mjs) |
+| [Dragons Lair Terrain](https://polyfork.dev/asset/dragons-lair-terrain-26fac6) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 25,328 | [GLB](https://polyfork.dev/cdn/dragons-lair-terrain-26fac6.glb) · [module](https://polyfork.dev/cdn/dragons-lair-terrain-26fac6.mjs) |
 | [Día de Muertos Terrain](https://polyfork.dev/asset/d-a-de-muertos-a1cedd) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 25,328 | [GLB](https://polyfork.dev/cdn/d-a-de-muertos-a1cedd.glb) · [module](https://polyfork.dev/cdn/d-a-de-muertos-a1cedd.mjs) |
 | [Easter Island (Rapa Nui) Terrain](https://polyfork.dev/asset/easter-island-rapa-nui-584f21) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 26,326 | [GLB](https://polyfork.dev/cdn/easter-island-rapa-nui-584f21.glb) · [module](https://polyfork.dev/cdn/easter-island-rapa-nui-584f21.mjs) |
 | [Frontier Town Terrain](https://polyfork.dev/asset/frontier-town-terrain-3fdd03) | [Frontier Town](../kits/frontier-town-a0085b.md) | 25,328 | [GLB](https://polyfork.dev/cdn/frontier-town-terrain-3fdd03.glb) · [module](https://polyfork.dev/cdn/frontier-town-terrain-3fdd03.mjs) |

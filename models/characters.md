@@ -1,6 +1,6 @@
 # Characters
 
-193 free low-poly models. [All types](../README.md#browse-by-type)
+198 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -39,11 +39,15 @@
 | [Cove Trader](https://polyfork.dev/asset/cove-trader-0f94a6) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 3,805 | [GLB](https://polyfork.dev/cdn/cove-trader-0f94a6.glb) · [module](https://polyfork.dev/cdn/cove-trader-0f94a6.mjs) |
 | [Crane Banksman](https://polyfork.dev/asset/crane-banksman-3994e0) | [Construction Site](../kits/construction-site-9e40b0.md) | 3,831 | [GLB](https://polyfork.dev/cdn/crane-banksman-3994e0.glb) · [module](https://polyfork.dev/cdn/crane-banksman-3994e0.mjs) |
 | [Crossing Keeper](https://polyfork.dev/asset/crossing-keeper-e13207) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 4,477 | [GLB](https://polyfork.dev/cdn/crossing-keeper-e13207.glb) · [module](https://polyfork.dev/cdn/crossing-keeper-e13207.mjs) |
+| [Cueca Musician](https://polyfork.dev/asset/cueca-musician-d71a2e) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 4,055 | [GLB](https://polyfork.dev/cdn/cueca-musician-d71a2e.glb) · [module](https://polyfork.dev/cdn/cueca-musician-d71a2e.mjs) |
 | [Daimyo Lord](https://polyfork.dev/asset/daimyo-lord-78364a) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 4,399 | [GLB](https://polyfork.dev/cdn/daimyo-lord-78364a.glb) · [module](https://polyfork.dev/cdn/daimyo-lord-78364a.mjs) |
 | [Delivery Courier](https://polyfork.dev/asset/delivery-courier-327e30) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 3,523 | [GLB](https://polyfork.dev/cdn/delivery-courier-327e30.glb) · [module](https://polyfork.dev/cdn/delivery-courier-327e30.mjs) |
 | [Diner Waitress](https://polyfork.dev/asset/diner-waitress-60f6a1) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 4,365 | [GLB](https://polyfork.dev/cdn/diner-waitress-60f6a1.glb) · [module](https://polyfork.dev/cdn/diner-waitress-60f6a1.mjs) |
 | [Doctor](https://polyfork.dev/asset/doctor-d49de0) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 4,707 | [GLB](https://polyfork.dev/cdn/doctor-d49de0.glb) · [module](https://polyfork.dev/cdn/doctor-d49de0.mjs) |
 | [Doorman](https://polyfork.dev/asset/doorman-3f2e09) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 3,399 | [GLB](https://polyfork.dev/cdn/doorman-3f2e09.glb) · [module](https://polyfork.dev/cdn/doorman-3f2e09.mjs) |
+| [Dragon Rider Apprentice](https://polyfork.dev/asset/dragon-rider-apprentice-dee2cd) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 4,827 | [GLB](https://polyfork.dev/cdn/dragon-rider-apprentice-dee2cd.glb) · [module](https://polyfork.dev/cdn/dragon-rider-apprentice-dee2cd.mjs) |
+| [Dragon Slayer](https://polyfork.dev/asset/dragon-slayer-91ab39) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 4,991 | [GLB](https://polyfork.dev/cdn/dragon-slayer-91ab39.glb) · [module](https://polyfork.dev/cdn/dragon-slayer-91ab39.mjs) |
+| [Egg Poacher](https://polyfork.dev/asset/egg-poacher-428c56) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 4,529 | [GLB](https://polyfork.dev/cdn/egg-poacher-428c56.glb) · [module](https://polyfork.dev/cdn/egg-poacher-428c56.mjs) |
 | [El Catrín](https://polyfork.dev/asset/el-catr-n-be48ea) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 4,119 | [GLB](https://polyfork.dev/cdn/el-catr-n-be48ea.glb) · [module](https://polyfork.dev/cdn/el-catr-n-be48ea.mjs) |
 | [Engine Driver](https://polyfork.dev/asset/engine-driver-1ba1e2) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 4,295 | [GLB](https://polyfork.dev/cdn/engine-driver-1ba1e2.glb) · [module](https://polyfork.dev/cdn/engine-driver-1ba1e2.mjs) |
 | [Family Road-Tripper](https://polyfork.dev/asset/family-road-tripper-247570) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 4,807 | [GLB](https://polyfork.dev/cdn/family-road-tripper-247570.glb) · [module](https://polyfork.dev/cdn/family-road-tripper-247570.mjs) |
@@ -140,6 +144,7 @@
 | [School Caretaker](https://polyfork.dev/asset/school-caretaker-b49fae) |  | 3,727 | [GLB](https://polyfork.dev/cdn/school-caretaker-b49fae.glb) · [module](https://polyfork.dev/cdn/school-caretaker-b49fae.mjs) |
 | [School Student](https://polyfork.dev/asset/school-student-385134) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 4,623 | [GLB](https://polyfork.dev/cdn/school-student-385134.glb) · [module](https://polyfork.dev/cdn/school-student-385134.mjs) |
 | [School Teacher](https://polyfork.dev/asset/school-teacher-8b8bfc) |  | 3,777 | [GLB](https://polyfork.dev/cdn/school-teacher-8b8bfc.glb) · [module](https://polyfork.dev/cdn/school-teacher-8b8bfc.mjs) |
+| [Schoolkid](https://polyfork.dev/asset/schoolkid-da94c1) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 4,181 | [GLB](https://polyfork.dev/cdn/schoolkid-da94c1.glb) · [module](https://polyfork.dev/cdn/schoolkid-da94c1.mjs) |
 | [Scooter Kid](https://polyfork.dev/asset/scooter-kid-28cff9) | [Skatepark kit](../kits/skatepark-0922a9.md) | 4,417 | [GLB](https://polyfork.dev/cdn/scooter-kid-28cff9.glb) · [module](https://polyfork.dev/cdn/scooter-kid-28cff9.mjs) |
 | [Scuba Diver](https://polyfork.dev/asset/scuba-diver-bdd1c8) | [Coral Reef](../kits/coral-reef-a7128a.md) | 3,829 | [GLB](https://polyfork.dev/cdn/scuba-diver-bdd1c8.glb) · [module](https://polyfork.dev/cdn/scuba-diver-bdd1c8.mjs) |
 | [Seated Office Worker](https://polyfork.dev/asset/seated-office-worker-854671) | [Office](../kits/office-794453.md) | 3,027 | [GLB](https://polyfork.dev/cdn/seated-office-worker-854671.glb) · [module](https://polyfork.dev/cdn/seated-office-worker-854671.mjs) |
