@@ -1,11 +1,13 @@
 # Props
 
-1,985 free low-poly models. [All types](../README.md#browse-by-type)
+1,993 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Marram Dune Tile](https://polyfork.dev/asset/marram-dune-tile-56cdf8) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 741 | [GLB](https://polyfork.dev/cdn/marram-dune-tile-56cdf8.glb) · [module](https://polyfork.dev/cdn/marram-dune-tile-56cdf8.mjs) |
+| [Marram Grass Tuft](https://polyfork.dev/asset/marram-grass-tuft-8c7a99) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 574 | [GLB](https://polyfork.dev/cdn/marram-grass-tuft-8c7a99.glb) · [module](https://polyfork.dev/cdn/marram-grass-tuft-8c7a99.mjs) |
 | [Marshmallow Stick](https://polyfork.dev/asset/marshmallow-stick-e955c7) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 576 | [GLB](https://polyfork.dev/cdn/marshmallow-stick-e955c7.glb) · [module](https://polyfork.dev/cdn/marshmallow-stick-e955c7.mjs) |
 | [Martini Glass](https://polyfork.dev/asset/martini-glass-c78705) | [Hotel Casino kit](../kits/casino-3dd029.md) | 638 | [GLB](https://polyfork.dev/cdn/martini-glass-c78705.glb) · [module](https://polyfork.dev/cdn/martini-glass-c78705.mjs) |
 | [Masonry Rubble Chunk](https://polyfork.dev/asset/masonry-rubble-chunk-c4da0b) |  | 394 | [GLB](https://polyfork.dev/cdn/masonry-rubble-chunk-c4da0b.glb) · [module](https://polyfork.dev/cdn/masonry-rubble-chunk-c4da0b.mjs) |
@@ -165,6 +167,7 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md)
 | [Paper Lantern](https://polyfork.dev/asset/paper-lantern-3387e9) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 608 | [GLB](https://polyfork.dev/cdn/paper-lantern-3387e9.glb) · [module](https://polyfork.dev/cdn/paper-lantern-3387e9.mjs) |
 | [Paper Shredder](https://polyfork.dev/asset/paper-shredder-5366a6) | [Office](../kits/office-794453.md) | 564 | [GLB](https://polyfork.dev/cdn/paper-shredder-5366a6.glb) · [module](https://polyfork.dev/cdn/paper-shredder-5366a6.mjs) |
 | [Paper Stack](https://polyfork.dev/asset/paper-stack-713359) | [Office](../kits/office-794453.md) | 466 | [GLB](https://polyfork.dev/cdn/paper-stack-713359.glb) · [module](https://polyfork.dev/cdn/paper-stack-713359.mjs) |
+| [PAPI Unit](https://polyfork.dev/asset/papi-unit-adc7c4) | [Airport](../kits/airport-43b137.md) | 826 | [GLB](https://polyfork.dev/cdn/papi-unit-adc7c4.glb) · [module](https://polyfork.dev/cdn/papi-unit-adc7c4.mjs) |
 | [Park Bench](https://polyfork.dev/asset/park-bench-dc8b62) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 756 | [GLB](https://polyfork.dev/cdn/park-bench-dc8b62.glb) · [module](https://polyfork.dev/cdn/park-bench-dc8b62.mjs) |
 | [Park Drinking Fountain](https://polyfork.dev/asset/park-drinking-fountain-b1c25b) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 742 | [GLB](https://polyfork.dev/cdn/park-drinking-fountain-b1c25b.glb) · [module](https://polyfork.dev/cdn/park-drinking-fountain-b1c25b.mjs) |
 | [Parking Lot Tile](https://polyfork.dev/asset/parking-lot-tile-227439) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 324 | [GLB](https://polyfork.dev/cdn/parking-lot-tile-227439.glb) · [module](https://polyfork.dev/cdn/parking-lot-tile-227439.mjs) |
@@ -172,6 +175,7 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md)
 | [Parron Run](https://polyfork.dev/asset/parron-run-0374e5) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 797 | [GLB](https://polyfork.dev/cdn/parron-run-0374e5.glb) · [module](https://polyfork.dev/cdn/parron-run-0374e5.mjs) |
 | [Pass Heat Lamp](https://polyfork.dev/asset/pass-heat-lamp-c79dc8) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 428 | [GLB](https://polyfork.dev/cdn/pass-heat-lamp-c79dc8.glb) · [module](https://polyfork.dev/cdn/pass-heat-lamp-c79dc8.mjs) |
 | [Pass-Box Hatch](https://polyfork.dev/asset/pass-box-hatch-3588d9) | [Research Lab](../kits/research-lab-9b9b5d.md) | 542 | [GLB](https://polyfork.dev/cdn/pass-box-hatch-3588d9.glb) · [module](https://polyfork.dev/cdn/pass-box-hatch-3588d9.mjs) |
+| [Passport Control Booth](https://polyfork.dev/asset/passport-control-booth-7724c6) | [Airport](../kits/airport-43b137.md) | 692 | [GLB](https://polyfork.dev/cdn/passport-control-booth-7724c6.glb) · [module](https://polyfork.dev/cdn/passport-control-booth-7724c6.mjs) |
 | [Pastel Flowering Plant](https://polyfork.dev/asset/pastel-flowering-plant-d16a03) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 695 | [GLB](https://polyfork.dev/cdn/pastel-flowering-plant-d16a03.glb) · [module](https://polyfork.dev/cdn/pastel-flowering-plant-d16a03.mjs) |
 | [Pastry Display Case](https://polyfork.dev/asset/pastry-display-case-8bcce5) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 336 | [GLB](https://polyfork.dev/cdn/pastry-display-case-8bcce5.glb) · [module](https://polyfork.dev/cdn/pastry-display-case-8bcce5.mjs) |
 | [Path Stone A](https://polyfork.dev/asset/path-stone-a-aead48) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 80 | [GLB](https://polyfork.dev/cdn/path-stone-a-aead48.glb) · [module](https://polyfork.dev/cdn/path-stone-a-aead48.mjs) |
@@ -502,8 +506,4 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md)
 | [Shot Put Circle](https://polyfork.dev/asset/shot-put-circle-a12cb9) | [Stadium](../kits/stadium-5db167.md) | 354 | [GLB](https://polyfork.dev/cdn/shot-put-circle-a12cb9.glb) · [module](https://polyfork.dev/cdn/shot-put-circle-a12cb9.mjs) |
 | [Shower Enclosure](https://polyfork.dev/asset/shower-enclosure-a50c16) | [Open Plan](../kits/open-plan-b2ebd3.md) | 514 | [GLB](https://polyfork.dev/cdn/shower-enclosure-a50c16.glb) · [module](https://polyfork.dev/cdn/shower-enclosure-a50c16.mjs) |
 | [Side Dock](https://polyfork.dev/asset/side-dock-458f18) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 804 | [GLB](https://polyfork.dev/cdn/side-dock-458f18.glb) · [module](https://polyfork.dev/cdn/side-dock-458f18.mjs) |
-| [Side Table](https://polyfork.dev/asset/side-table-2ea5c0) | [Open Plan](../kits/open-plan-b2ebd3.md) | 402 | [GLB](https://polyfork.dev/cdn/side-table-2ea5c0.glb) · [module](https://polyfork.dev/cdn/side-table-2ea5c0.mjs) |
-| [Sidearm](https://polyfork.dev/asset/sidearm-f35bb5) |  | 684 | [GLB](https://polyfork.dev/cdn/sidearm-f35bb5.glb) · [module](https://polyfork.dev/cdn/sidearm-f35bb5.mjs) |
-| [Sideboard](https://polyfork.dev/asset/sideboard-dd343b) | [Open Plan](../kits/open-plan-b2ebd3.md) | 366 | [GLB](https://polyfork.dev/cdn/sideboard-dd343b.glb) · [module](https://polyfork.dev/cdn/sideboard-dd343b.mjs) |
-| [Sideline Medical Tent](https://polyfork.dev/asset/sideline-medical-tent-ce1649) | [Stadium](../kits/stadium-5db167.md) | 838 | [GLB](https://polyfork.dev/cdn/sideline-medical-tent-ce1649.glb) · [module](https://polyfork.dev/cdn/sideline-medical-tent-ce1649.mjs) |
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md)

@@ -1,6 +1,6 @@
 # Props
 
-1,985 free low-poly models. [All types](../README.md#browse-by-type)
+1,993 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md)
 
@@ -125,6 +125,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md)
 | [Basalt Column Outcrop](https://polyfork.dev/asset/basalt-column-outcrop-f1339d) | [Prehistoric Valley](../kits/prehistoric-valley-8638dc.md) | 408 | [GLB](https://polyfork.dev/cdn/basalt-column-outcrop-f1339d.glb) · [module](https://polyfork.dev/cdn/basalt-column-outcrop-f1339d.mjs) |
 | [Basalt Field Wall Run](https://polyfork.dev/asset/basalt-field-wall-run-d0917e) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 721 | [GLB](https://polyfork.dev/cdn/basalt-field-wall-run-d0917e.glb) · [module](https://polyfork.dev/cdn/basalt-field-wall-run-d0917e.mjs) |
 | [Base Cabinet Run](https://polyfork.dev/asset/base-cabinet-run-71d050) | [Open Plan](../kits/open-plan-b2ebd3.md) | 230 | [GLB](https://polyfork.dev/cdn/base-cabinet-run-71d050.glb) · [module](https://polyfork.dev/cdn/base-cabinet-run-71d050.mjs) |
+| [Basil Pot](https://polyfork.dev/asset/basil-pot-125949) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 744 | [GLB](https://polyfork.dev/cdn/basil-pot-125949.glb) · [module](https://polyfork.dev/cdn/basil-pot-125949.mjs) |
 | [Basket of Humitas](https://polyfork.dev/asset/basket-of-humitas-3cb716) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 772 | [GLB](https://polyfork.dev/cdn/basket-of-humitas-3cb716.glb) · [module](https://polyfork.dev/cdn/basket-of-humitas-3cb716.mjs) |
 | [Basket of Produce](https://polyfork.dev/asset/basket-of-produce-7420cf) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 766 | [GLB](https://polyfork.dev/cdn/basket-of-produce-7420cf.glb) · [module](https://polyfork.dev/cdn/basket-of-produce-7420cf.mjs) |
 | [Basketball Backboard](https://polyfork.dev/asset/basketball-backboard-2624e9) |  | 724 | [GLB](https://polyfork.dev/cdn/basketball-backboard-2624e9.glb) · [module](https://polyfork.dev/cdn/basketball-backboard-2624e9.mjs) |
@@ -347,6 +348,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md)
 | [Classic Reel Slot Machine](https://polyfork.dev/asset/classic-reel-slot-machine-8e790e) | [Hotel Casino kit](../kits/casino-3dd029.md) | 844 | [GLB](https://polyfork.dev/cdn/classic-reel-slot-machine-8e790e.glb) · [module](https://polyfork.dev/cdn/classic-reel-slot-machine-8e790e.mjs) |
 | [Classroom Globe](https://polyfork.dev/asset/classroom-globe-16a96e) |  | 756 | [GLB](https://polyfork.dev/cdn/classroom-globe-16a96e.glb) · [module](https://polyfork.dev/cdn/classroom-globe-16a96e.mjs) |
 | [Classroom Sink Unit](https://polyfork.dev/asset/classroom-sink-unit-26fe09) |  | 710 | [GLB](https://polyfork.dev/cdn/classroom-sink-unit-26fe09.glb) · [module](https://polyfork.dev/cdn/classroom-sink-unit-26fe09.mjs) |
+| [Claw Bracer](https://polyfork.dev/asset/claw-bracer-e3397d) |  | 754 | [GLB](https://polyfork.dev/cdn/claw-bracer-e3397d.glb) · [module](https://polyfork.dev/cdn/claw-bracer-e3397d.mjs) |
 | [Claw Gouge Mark](https://polyfork.dev/asset/claw-gouge-mark-e33adc) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 924 | [GLB](https://polyfork.dev/cdn/claw-gouge-mark-e33adc.glb) · [module](https://polyfork.dev/cdn/claw-gouge-mark-e33adc.mjs) |
 | [Claw-Scored Boulder](https://polyfork.dev/asset/claw-scored-boulder-c756f3) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 408 | [GLB](https://polyfork.dev/cdn/claw-scored-boulder-c756f3.glb) · [module](https://polyfork.dev/cdn/claw-scored-boulder-c756f3.mjs) |
 | [Clay Amphora](https://polyfork.dev/asset/clay-amphora-098d94) | [Coral Reef](../kits/coral-reef-a7128a.md) | 572 | [GLB](https://polyfork.dev/cdn/clay-amphora-098d94.glb) · [module](https://polyfork.dev/cdn/clay-amphora-098d94.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md)
 | [Deep Powder Tile](https://polyfork.dev/asset/deep-powder-tile-1fcec9) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 438 | [GLB](https://polyfork.dev/cdn/deep-powder-tile-1fcec9.glb) · [module](https://polyfork.dev/cdn/deep-powder-tile-1fcec9.mjs) |
 | [Defense Turret](https://polyfork.dev/asset/defense-turret-12ba8d) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 636 | [GLB](https://polyfork.dev/cdn/defense-turret-12ba8d.glb) · [module](https://polyfork.dev/cdn/defense-turret-12ba8d.mjs) |
 | [Deployable Turret](https://polyfork.dev/asset/deployable-turret-5b8110) |  | 836 | [GLB](https://polyfork.dev/cdn/deployable-turret-5b8110.glb) · [module](https://polyfork.dev/cdn/deployable-turret-5b8110.mjs) |
-| [Depot Fuel Tank](https://polyfork.dev/asset/depot-fuel-tank-55a00e) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 835 | [GLB](https://polyfork.dev/cdn/depot-fuel-tank-55a00e.glb) · [module](https://polyfork.dev/cdn/depot-fuel-tank-55a00e.mjs) |
-| [Desert Floor Tile](https://polyfork.dev/asset/desert-floor-tile-cf69a2) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 498 | [GLB](https://polyfork.dev/cdn/desert-floor-tile-cf69a2.glb) · [module](https://polyfork.dev/cdn/desert-floor-tile-cf69a2.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md)

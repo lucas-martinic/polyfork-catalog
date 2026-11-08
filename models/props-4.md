@@ -1,11 +1,15 @@
 # Props
 
-1,985 free low-poly models. [All types](../README.md#browse-by-type)
+1,993 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) **4**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Side Table](https://polyfork.dev/asset/side-table-2ea5c0) | [Open Plan](../kits/open-plan-b2ebd3.md) | 402 | [GLB](https://polyfork.dev/cdn/side-table-2ea5c0.glb) · [module](https://polyfork.dev/cdn/side-table-2ea5c0.mjs) |
+| [Sidearm](https://polyfork.dev/asset/sidearm-f35bb5) |  | 684 | [GLB](https://polyfork.dev/cdn/sidearm-f35bb5.glb) · [module](https://polyfork.dev/cdn/sidearm-f35bb5.mjs) |
+| [Sideboard](https://polyfork.dev/asset/sideboard-dd343b) | [Open Plan](../kits/open-plan-b2ebd3.md) | 366 | [GLB](https://polyfork.dev/cdn/sideboard-dd343b.glb) · [module](https://polyfork.dev/cdn/sideboard-dd343b.mjs) |
+| [Sideline Medical Tent](https://polyfork.dev/asset/sideline-medical-tent-ce1649) | [Stadium](../kits/stadium-5db167.md) | 838 | [GLB](https://polyfork.dev/cdn/sideline-medical-tent-ce1649.glb) · [module](https://polyfork.dev/cdn/sideline-medical-tent-ce1649.mjs) |
 | [Sideline Yard Marker](https://polyfork.dev/asset/sideline-yard-marker-029dcc) | [Stadium](../kits/stadium-5db167.md) | 470 | [GLB](https://polyfork.dev/cdn/sideline-yard-marker-029dcc.glb) · [module](https://polyfork.dev/cdn/sideline-yard-marker-029dcc.mjs) |
 | [Sidewalk Bollard](https://polyfork.dev/asset/sidewalk-bollard-c2567e) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 568 | [GLB](https://polyfork.dev/cdn/sidewalk-bollard-c2567e.glb) · [module](https://polyfork.dev/cdn/sidewalk-bollard-c2567e.mjs) |
 | [Sidewalk Cellar Hatch](https://polyfork.dev/asset/sidewalk-cellar-hatch-c717a8) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 508 | [GLB](https://polyfork.dev/cdn/sidewalk-cellar-hatch-c717a8.glb) · [module](https://polyfork.dev/cdn/sidewalk-cellar-hatch-c717a8.mjs) |
@@ -71,6 +75,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4**
 | [Solar Array Rack](https://polyfork.dev/asset/solar-array-rack-789c93) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 510 | [GLB](https://polyfork.dev/cdn/solar-array-rack-789c93.glb) · [module](https://polyfork.dev/cdn/solar-array-rack-789c93.mjs) |
 | [Sopaipilla Cart](https://polyfork.dev/asset/sopaipilla-cart-712632) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 898 | [GLB](https://polyfork.dev/cdn/sopaipilla-cart-712632.glb) · [module](https://polyfork.dev/cdn/sopaipilla-cart-712632.mjs) |
 | [Space Mine](https://polyfork.dev/asset/space-mine-3a1654) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 480 | [GLB](https://polyfork.dev/cdn/space-mine-3a1654.glb) · [module](https://polyfork.dev/cdn/space-mine-3a1654.mjs) |
+| [Spare Engine on Transport Stand](https://polyfork.dev/asset/spare-engine-on-transport-db14e5) | [Airport](../kits/airport-43b137.md) | 966 | [GLB](https://polyfork.dev/cdn/spare-engine-on-transport-db14e5.glb) · [module](https://polyfork.dev/cdn/spare-engine-on-transport-db14e5.mjs) |
 | [Spare Rail Stack](https://polyfork.dev/asset/spare-rail-stack-99d443) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 474 | [GLB](https://polyfork.dev/cdn/spare-rail-stack-99d443.glb) · [module](https://polyfork.dev/cdn/spare-rail-stack-99d443.mjs) |
 | [Speaker-post](https://polyfork.dev/asset/speaker-post-e1503d) | [Retro Cars Kit](../kits/racing-cars-kit-660d53.md) | 528 | [GLB](https://polyfork.dev/cdn/speaker-post-e1503d.glb) · [module](https://polyfork.dev/cdn/speaker-post-e1503d.mjs) |
 | [Speakerphone Puck](https://polyfork.dev/asset/speakerphone-puck-e3eb0d) | [Office](../kits/office-794453.md) | 614 | [GLB](https://polyfork.dev/cdn/speakerphone-puck-e3eb0d.glb) · [module](https://polyfork.dev/cdn/speakerphone-puck-e3eb0d.mjs) |
@@ -217,6 +222,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4**
 | [Task Chair](https://polyfork.dev/asset/task-chair-ccd944) | [Office](../kits/office-794453.md) | 698 | [GLB](https://polyfork.dev/cdn/task-chair-ccd944.glb) · [module](https://polyfork.dev/cdn/task-chair-ccd944.mjs) |
 | [Tate Standing Shield](https://polyfork.dev/asset/tate-standing-shield-e5513e) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 444 | [GLB](https://polyfork.dev/cdn/tate-standing-shield-e5513e.glb) · [module](https://polyfork.dev/cdn/tate-standing-shield-e5513e.mjs) |
 | [Tattered Warning Banner](https://polyfork.dev/asset/tattered-warning-banner-772efa) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 792 | [GLB](https://polyfork.dev/cdn/tattered-warning-banner-772efa.glb) · [module](https://polyfork.dev/cdn/tattered-warning-banner-772efa.mjs) |
+| [Taxi Rank Sign](https://polyfork.dev/asset/taxi-rank-sign-f5f39d) | [Airport](../kits/airport-43b137.md) | 418 | [GLB](https://polyfork.dev/cdn/taxi-rank-sign-f5f39d.glb) · [module](https://polyfork.dev/cdn/taxi-rank-sign-f5f39d.mjs) |
 | [Taxiway Tile](https://polyfork.dev/asset/taxiway-tile-d27d0c) | [Airport](../kits/airport-43b137.md) | 156 | [GLB](https://polyfork.dev/cdn/taxiway-tile-d27d0c.glb) · [module](https://polyfork.dev/cdn/taxiway-tile-d27d0c.mjs) |
 | [Te Pito Kura Navel Stone](https://polyfork.dev/asset/te-pito-kura-navel-eadfb2) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 406 | [GLB](https://polyfork.dev/cdn/te-pito-kura-navel-eadfb2.glb) · [module](https://polyfork.dev/cdn/te-pito-kura-navel-eadfb2.mjs) |
 | [Tea Point Counter Module](https://polyfork.dev/asset/tea-point-counter-module-1ad43e) | [Office](../kits/office-794453.md) | 392 | [GLB](https://polyfork.dev/cdn/tea-point-counter-module-1ad43e.glb) · [module](https://polyfork.dev/cdn/tea-point-counter-module-1ad43e.mjs) |
@@ -366,6 +372,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4**
 | [Vital Signs Monitor](https://polyfork.dev/asset/vital-signs-monitor-632560) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 654 | [GLB](https://polyfork.dev/cdn/vital-signs-monitor-632560.glb) · [module](https://polyfork.dev/cdn/vital-signs-monitor-632560.mjs) |
 | [Volantin](https://polyfork.dev/asset/volantin-398e88) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 480 | [GLB](https://polyfork.dev/cdn/volantin-398e88.glb) · [module](https://polyfork.dev/cdn/volantin-398e88.mjs) |
 | [Volcanic Boulder Cluster](https://polyfork.dev/asset/volcanic-boulder-cluster-7e29ea) | [Prehistoric Valley](../kits/prehistoric-valley-8638dc.md) | 648 | [GLB](https://polyfork.dev/cdn/volcanic-boulder-cluster-7e29ea.glb) · [module](https://polyfork.dev/cdn/volcanic-boulder-cluster-7e29ea.mjs) |
+| [VOR Navigation Beacon](https://polyfork.dev/asset/vor-navigation-beacon-9b32ff) | [Airport](../kits/airport-43b137.md) | 840 | [GLB](https://polyfork.dev/cdn/vor-navigation-beacon-9b32ff.glb) · [module](https://polyfork.dev/cdn/vor-navigation-beacon-9b32ff.mjs) |
 | [Vortex Mixer](https://polyfork.dev/asset/vortex-mixer-16aaab) | [Research Lab](../kits/research-lab-9b9b5d.md) | 504 | [GLB](https://polyfork.dev/cdn/vortex-mixer-16aaab.glb) · [module](https://polyfork.dev/cdn/vortex-mixer-16aaab.mjs) |
 | [Waiting Room Chair](https://polyfork.dev/asset/waiting-room-chair-5e20cc) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 474 | [GLB](https://polyfork.dev/cdn/waiting-room-chair-5e20cc.glb) · [module](https://polyfork.dev/cdn/waiting-room-chair-5e20cc.mjs) |
 | [Walk-in Fume Hood](https://polyfork.dev/asset/walk-in-fume-hood-bbc294) | [Research Lab](../kits/research-lab-9b9b5d.md) | 580 | [GLB](https://polyfork.dev/cdn/walk-in-fume-hood-bbc294.glb) · [module](https://polyfork.dev/cdn/walk-in-fume-hood-bbc294.mjs) |
@@ -479,6 +486,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4**
 | [Write-up Desk](https://polyfork.dev/asset/write-up-desk-38763a) | [Research Lab](../kits/research-lab-9b9b5d.md) | 554 | [GLB](https://polyfork.dev/cdn/write-up-desk-38763a.glb) · [module](https://polyfork.dev/cdn/write-up-desk-38763a.mjs) |
 | [Writing Wall (Whiteboard)](https://polyfork.dev/asset/writing-wall-whiteboard-a3163e) | [University](../kits/university-959b66.md) | 449 | [GLB](https://polyfork.dev/cdn/writing-wall-whiteboard-a3163e.glb) · [module](https://polyfork.dev/cdn/writing-wall-whiteboard-a3163e.mjs) |
 | [Wrought-Iron Cemetery Fence Run](https://polyfork.dev/asset/wrought-iron-cemetery-fence-f1a113) | [Halloween Night](../kits/halloween-night-46ade4.md) | 808 | [GLB](https://polyfork.dev/cdn/wrought-iron-cemetery-fence-f1a113.glb) · [module](https://polyfork.dev/cdn/wrought-iron-cemetery-fence-f1a113.mjs) |
+| [X-Ray Baggage Conveyor](https://polyfork.dev/asset/x-ray-baggage-conveyor-b3d1cc) | [Airport](../kits/airport-43b137.md) | 678 | [GLB](https://polyfork.dev/cdn/x-ray-baggage-conveyor-b3d1cc.glb) · [module](https://polyfork.dev/cdn/x-ray-baggage-conveyor-b3d1cc.mjs) |
 | [Yard Basketball Post](https://polyfork.dev/asset/yard-basketball-post-b71ee3) |  | 558 | [GLB](https://polyfork.dev/cdn/yard-basketball-post-b71ee3.glb) · [module](https://polyfork.dev/cdn/yard-basketball-post-b71ee3.mjs) |
 | [Yard Crane](https://polyfork.dev/asset/yard-crane-316e4a) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 850 | [GLB](https://polyfork.dev/cdn/yard-crane-316e4a.glb) · [module](https://polyfork.dev/cdn/yard-crane-316e4a.mjs) |
 | [Yard Fence Gate Bay](https://polyfork.dev/asset/yard-fence-gate-bay-eb6a30) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 574 | [GLB](https://polyfork.dev/cdn/yard-fence-gate-bay-eb6a30.glb) · [module](https://polyfork.dev/cdn/yard-fence-gate-bay-eb6a30.mjs) |
