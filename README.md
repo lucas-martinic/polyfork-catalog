@@ -1,6 +1,6 @@
 # Polyfork: free low-poly 3D models
 
-**3,086 free low-poly 3D models and 28 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
+**3,156 free low-poly 3D models and 29 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
 
 [Browse on polyfork.dev](https://polyfork.dev/assets) · [Kits](#kits) · [By type](#browse-by-type) · [catalog.json](catalog.json)
 
@@ -80,36 +80,37 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 <td align="center" valign="top" width="33%"><a href="kits/cozy-farm-cc979f.md"><img src="covers/cozy-farm-cc979f.jpg" alt="Cozy Farm low-poly 3D kit"><br><strong>Cozy Farm</strong></a><br><sub>60 parts</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="kits/dia-de-muertos-f2f8f8.md"><img src="covers/dia-de-muertos-f2f8f8.jpg" alt="Día de Muertos kit low-poly 3D kit"><br><strong>Día de Muertos kit</strong></a><br><sub>62 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/emerald-gilded-runes-kit-abfc30.md"><img src="covers/emerald-gilded-runes-kit-abfc30.jpg" alt="Emerald Gilded Runes kit low-poly 3D kit"><br><strong>Emerald Gilded Runes kit</strong></a><br><sub>60 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/frontier-town-a0085b.md"><img src="covers/frontier-town-a0085b.jpg" alt="Frontier Town low-poly 3D kit"><br><strong>Frontier Town</strong></a><br><sub>61 parts</sub></td>
-<td align="center" valign="top" width="33%"><a href="kits/halloween-night-46ade4.md"><img src="covers/halloween-night-46ade4.jpg" alt="Halloween Night low-poly 3D kit"><br><strong>Halloween Night</strong></a><br><sub>61 parts</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="kits/halloween-night-46ade4.md"><img src="covers/halloween-night-46ade4.jpg" alt="Halloween Night low-poly 3D kit"><br><strong>Halloween Night</strong></a><br><sub>61 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/hospital-kit-2ebfcb.md"><img src="covers/hospital-kit-2ebfcb.jpg" alt="Hospital kit low-poly 3D kit"><br><strong>Hospital kit</strong></a><br><sub>57 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/japanese-suburban-city-street-baa482.md"><img src="covers/japanese-suburban-city-street-baa482.jpg" alt="Little Tokyo kit low-poly 3D kit"><br><strong>Little Tokyo kit</strong></a><br><sub>57 parts</sub></td>
-<td align="center" valign="top" width="33%"><a href="kits/loot-lode-kit-63191e.md"><img src="covers/loot-lode-kit-63191e.jpg" alt="Loot &amp; Lode kit low-poly 3D kit"><br><strong>Loot &amp; Lode kit</strong></a><br><sub>67 parts</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="kits/loot-lode-kit-63191e.md"><img src="covers/loot-lode-kit-63191e.jpg" alt="Loot &amp; Lode kit low-poly 3D kit"><br><strong>Loot &amp; Lode kit</strong></a><br><sub>67 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/medieval-village-kit-ca0b43.md"><img src="covers/medieval-village-kit-ca0b43.jpg" alt="Medieval Village Kit low-poly 3D kit"><br><strong>Medieval Village Kit</strong></a><br><sub>60 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/modern-restaurant-cafe-01ea4c.md"><img src="covers/modern-restaurant-cafe-01ea4c.jpg" alt="Modern Restaurant Cafe kit low-poly 3D kit"><br><strong>Modern Restaurant Cafe kit</strong></a><br><sub>60 parts</sub></td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%"><a href="kits/neighborhood-pathways-kit-a992cf.md"><img src="covers/neighborhood-pathways-kit-a992cf.jpg" alt="Neighborhood Pathways kit low-poly 3D kit"><br><strong>Neighborhood Pathways kit</strong></a><br><sub>61 parts</sub></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%"><a href="kits/nyc-city-kit-fbca88.md"><img src="covers/nyc-city-kit-fbca88.jpg" alt="New York City Kit low-poly 3D kit"><br><strong>New York City Kit</strong></a><br><sub>81 parts</sub></td>
+<td align="center" valign="top" width="33%"><a href="kits/nyc-city-kit-fbca88.md"><img src="covers/nyc-city-kit-fbca88.jpg" alt="New York City Kit low-poly 3D kit"><br><strong>New York City Kit</strong></a><br><sub>82 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/office-794453.md"><img src="covers/office-794453.jpg" alt="Office low-poly 3D kit"><br><strong>Office</strong></a><br><sub>60 parts</sub></td>
-<td align="center" valign="top" width="33%"><a href="kits/office-reefscape-kit-1afd7c.md"><img src="covers/office-reefscape-kit-1afd7c.jpg" alt="Office Reefscape kit low-poly 3D kit"><br><strong>Office Reefscape kit</strong></a><br><sub>60 parts</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="kits/office-reefscape-kit-1afd7c.md"><img src="covers/office-reefscape-kit-1afd7c.jpg" alt="Office Reefscape kit low-poly 3D kit"><br><strong>Office Reefscape kit</strong></a><br><sub>60 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/pirate-cove-2ebea4.md"><img src="covers/pirate-cove-2ebea4.jpg" alt="Pirate Cove kit low-poly 3D kit"><br><strong>Pirate Cove kit</strong></a><br><sub>61 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/racing-cars-kit-660d53.md"><img src="covers/racing-cars-kit-660d53.jpg" alt="Retro Cars Kit low-poly 3D kit"><br><strong>Retro Cars Kit</strong></a><br><sub>29 parts</sub></td>
-<td align="center" valign="top" width="33%"><a href="kits/skatepark-0922a9.md"><img src="covers/skatepark-0922a9.jpg" alt="Skatepark kit low-poly 3D kit"><br><strong>Skatepark kit</strong></a><br><sub>60 parts</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="kits/skatepark-0922a9.md"><img src="covers/skatepark-0922a9.jpg" alt="Skatepark kit low-poly 3D kit"><br><strong>Skatepark kit</strong></a><br><sub>60 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/salvage-commons-d0be9f.md"><img src="covers/salvage-commons-d0be9f.jpg" alt="Sky Town low-poly 3D kit"><br><strong>Sky Town</strong></a><br><sub>62 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/space-base-kit-cf65de.md"><img src="covers/space-base-kit-cf65de.jpg" alt="Space Base Kit low-poly 3D kit"><br><strong>Space Base Kit</strong></a><br><sub>61 parts</sub></td>
-<td align="center" valign="top" width="33%"><a href="kits/spaceship-wars-kit-234642.md"><img src="covers/spaceship-wars-kit-234642.jpg" alt="Spaceship Wars Kit low-poly 3D kit"><br><strong>Spaceship Wars Kit</strong></a><br><sub>29 parts</sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%"><a href="kits/spaceship-wars-kit-234642.md"><img src="covers/spaceship-wars-kit-234642.jpg" alt="Spaceship Wars Kit low-poly 3D kit"><br><strong>Spaceship Wars Kit</strong></a><br><sub>29 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/stadium-5db167.md"><img src="covers/stadium-5db167.jpg" alt="Stadium low-poly 3D kit"><br><strong>Stadium</strong></a><br><sub>71 parts</sub></td>
 </tr>
 </table>
@@ -119,21 +120,24 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 - [Airport](kits/airport-43b137.md), 31 parts so far
 - [Alpine and Snow](kits/alpine-and-snow-092f66.md), 59 parts so far
 - [Chile: Fiestas Patrias](kits/chile-fiestas-patrias-87e847.md), 62 parts so far
-- [Christmas Village](kits/christmas-village-fbc27a.md), 4 parts so far
+- [Christmas Village](kits/christmas-village-fbc27a.md), 6 parts so far
 - [Coast and Boardwalk](kits/coast-and-boardwalk-d883fd.md), 60 parts so far
-- [Dragons Lair](kits/dragons-lair-dark-dragon-782570.md), 58 parts so far
+- [Dragons Lair](kits/dragons-lair-dark-dragon-782570.md), 59 parts so far
 - [Dungeon & Crypt](kits/dungeon-crypt-c27d93.md), 67 parts so far
-- [Día de Muertos kit](kits/dia-de-muertos-f2f8f8.md), 62 parts so far
 - [Easter Island (Rapa Nui)](kits/easter-island-rapa-nui-368e86.md), 59 parts so far
+- [Grimlight Denizens kit](kits/grimlight-denizens-kit-a6dc02.md), 1 part so far
 - [Hotel Casino kit](kits/casino-3dd029.md), 122 parts so far
 - [Insect World kit](kits/insect-world-e44b9f.md), 58 parts so far
 - [Medieval Japan](kits/medieval-japan-cb01ad.md), 60 parts so far
-- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 2 parts so far
+- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 3 parts so far
+- [Mythic Character Vault](kits/the-ultimate-rpg-character-a066e1.md), 4 parts so far
 - [Nature & Forest Kit](kits/nature-forest-kit-f29d6a.md), 59 parts so far
 - [Open Plan](kits/open-plan-b2ebd3.md), 63 parts so far
 - [Prehistoric Valley](kits/prehistoric-valley-8638dc.md), 59 parts so far
 - [Research Lab](kits/research-lab-9b9b5d.md), 61 parts so far
 - [Roadside Americana](kits/roadside-americana-50d40c.md), 60 parts so far
+- [Symphony Stagecraft kit](kits/symphony-stagecraft-kit-bf2de0.md), 51 parts so far
+- [Three Kingdoms Settlements](kits/three-kingdoms-settlements-a-1e817b.md), 8 parts so far
 - [University](kits/university-959b66.md), 61 parts so far
 
 ## Browse by type
@@ -141,10 +145,10 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 | Type | Models |
 |---|--:|
 | [Characters](models/characters.md) | 198 |
-| [Animals](models/animals.md) | 137 |
-| [Buildings](models/buildings.md) | 410 |
+| [Animals](models/animals.md) | 146 |
+| [Buildings](models/buildings.md) | 420 |
 | [Vehicles](models/vehicles.md) | 192 |
-| [Props](models/props.md) | 1,993 |
+| [Props](models/props.md) | 2,044 |
 | [Terrain](models/terrain.md) | 20 |
 | [Attachments](models/attachments.md) | 48 |
 | [Nano](models/nano.md) | 86 |

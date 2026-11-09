@@ -1,0 +1,22 @@
+# Three Kingdoms Settlements
+
+<img src="../covers/three-kingdoms-settlements-a-1e817b.jpg" width="480" alt="Three Kingdoms Settlements low-poly 3D kit">
+
+In production, 8 parts so far. Every part below is already free to use.
+
+[Open the kit on Polyfork](https://polyfork.dev/kit/three-kingdoms-settlements-a-1e817b) · [All kits](../README.md#kits)
+
+<table>
+<tr>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/ancestral-shrine-de7ed2"><img src="https://polyfork.dev/files/ancestral-shrine-de7ed2/renders/hero.png?v=1794151120" width="150" alt="Ancestral Shrine"></a><br><a href="https://polyfork.dev/asset/ancestral-shrine-de7ed2">Ancestral Shrine</a><br><sub><a href="https://polyfork.dev/cdn/ancestral-shrine-de7ed2.glb">GLB</a> · <a href="https://polyfork.dev/cdn/ancestral-shrine-de7ed2.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/bamboo-grove-clump-7c747d"><img src="https://polyfork.dev/files/bamboo-grove-clump-7c747d/renders/hero.png?v=1794163292" width="150" alt="Bamboo Grove Clump"></a><br><a href="https://polyfork.dev/asset/bamboo-grove-clump-7c747d">Bamboo Grove Clump</a><br><sub><a href="https://polyfork.dev/cdn/bamboo-grove-clump-7c747d.glb">GLB</a> · <a href="https://polyfork.dev/cdn/bamboo-grove-clump-7c747d.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/bamboo-notice-board-f1e26d"><img src="https://polyfork.dev/files/bamboo-notice-board-f1e26d/renders/hero.png?v=1794158395" width="150" alt="Bamboo Notice Board"></a><br><a href="https://polyfork.dev/asset/bamboo-notice-board-f1e26d">Bamboo Notice Board</a><br><sub><a href="https://polyfork.dev/cdn/bamboo-notice-board-f1e26d.glb">GLB</a> · <a href="https://polyfork.dev/cdn/bamboo-notice-board-f1e26d.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/bronze-lamp-stand-59b9d2"><img src="https://polyfork.dev/files/bronze-lamp-stand-59b9d2/renders/hero.png?v=1794174084" width="150" alt="Bronze Lamp Stand"></a><br><a href="https://polyfork.dev/asset/bronze-lamp-stand-59b9d2">Bronze Lamp Stand</a><br><sub><a href="https://polyfork.dev/cdn/bronze-lamp-stand-59b9d2.glb">GLB</a> · <a href="https://polyfork.dev/cdn/bronze-lamp-stand-59b9d2.mjs">module</a></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/camp-gate-2de13f"><img src="https://polyfork.dev/files/camp-gate-2de13f/renders/hero.png?v=1794182464" width="150" alt="Camp Gate"></a><br><a href="https://polyfork.dev/asset/camp-gate-2de13f">Camp Gate</a><br><sub><a href="https://polyfork.dev/cdn/camp-gate-2de13f.glb">GLB</a> · <a href="https://polyfork.dev/cdn/camp-gate-2de13f.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/governor-s-audience-hall-a4d777"><img src="https://polyfork.dev/files/governor-s-audience-hall-a4d777/renders/hero.png?v=1794155628" width="150" alt="Governor&#039;s Audience Hall"></a><br><a href="https://polyfork.dev/asset/governor-s-audience-hall-a4d777">Governor&#039;s Audience Hall</a><br><sub><a href="https://polyfork.dev/cdn/governor-s-audience-hall-a4d777.glb">GLB</a> · <a href="https://polyfork.dev/cdn/governor-s-audience-hall-a4d777.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/leather-forge-bellows-7f6d42"><img src="https://polyfork.dev/files/leather-forge-bellows-7f6d42/renders/hero.png?v=1794166872" width="150" alt="Leather Forge Bellows"></a><br><a href="https://polyfork.dev/asset/leather-forge-bellows-7f6d42">Leather Forge Bellows</a><br><sub><a href="https://polyfork.dev/cdn/leather-forge-bellows-7f6d42.glb">GLB</a> · <a href="https://polyfork.dev/cdn/leather-forge-bellows-7f6d42.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/signal-beacon-tower-9c0d1a"><img src="https://polyfork.dev/files/signal-beacon-tower-9c0d1a/renders/hero.png?v=1794159299" width="150" alt="Signal Beacon Tower"></a><br><a href="https://polyfork.dev/asset/signal-beacon-tower-9c0d1a">Signal Beacon Tower</a><br><sub><a href="https://polyfork.dev/cdn/signal-beacon-tower-9c0d1a.glb">GLB</a> · <a href="https://polyfork.dev/cdn/signal-beacon-tower-9c0d1a.mjs">module</a></sub></td>
+</tr>
+</table>
