@@ -1,6 +1,6 @@
 # Vehicles
 
-192 free low-poly models. [All types](../README.md#browse-by-type)
+194 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -110,6 +110,7 @@
 | [Mobile Bench Cart](https://polyfork.dev/asset/mobile-bench-cart-4b3ff5) | [Research Lab](../kits/research-lab-9b9b5d.md) | 2,182 | [GLB](https://polyfork.dev/cdn/mobile-bench-cart-4b3ff5.glb) · [module](https://polyfork.dev/cdn/mobile-bench-cart-4b3ff5.mjs) |
 | [Mobile Crane](https://polyfork.dev/asset/mobile-crane-671d3f) | [Construction Site](../kits/construction-site-9e40b0.md) | 3,091 | [GLB](https://polyfork.dev/cdn/mobile-crane-671d3f.glb) · [module](https://polyfork.dev/cdn/mobile-crane-671d3f.mjs) |
 | [Motorcycle And Sidecar](https://polyfork.dev/asset/motorcycle-and-sidecar-7d39b8) |  | 2,396 | [GLB](https://polyfork.dev/cdn/motorcycle-and-sidecar-7d39b8.glb) · [module](https://polyfork.dev/cdn/motorcycle-and-sidecar-7d39b8.mjs) |
+| [Mounted Bed Crossbow](https://polyfork.dev/asset/mounted-bed-crossbow-edb36f) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 3,350 | [GLB](https://polyfork.dev/cdn/mounted-bed-crossbow-edb36f.glb) · [module](https://polyfork.dev/cdn/mounted-bed-crossbow-edb36f.mjs) |
 | [Multi-legged tiller](https://polyfork.dev/asset/multi-legged-tiller-24ca96) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 2,546 | [GLB](https://polyfork.dev/cdn/multi-legged-tiller-24ca96.glb) · [module](https://polyfork.dev/cdn/multi-legged-tiller-24ca96.mjs) |
 | [Multi-Wheel Crawler Loader](https://polyfork.dev/asset/multi-wheel-crawler-loader-609591) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 2,188 | [GLB](https://polyfork.dev/cdn/multi-wheel-crawler-loader-609591.glb) · [module](https://polyfork.dev/cdn/multi-wheel-crawler-loader-609591.mjs) |
 | [Muscle-car-60s](https://polyfork.dev/asset/muscle-car-60s-524d46) | [Retro Cars Kit](../kits/racing-cars-kit-660d53.md) | 4,271 | [GLB](https://polyfork.dev/cdn/muscle-car-60s-524d46.glb) · [module](https://polyfork.dev/cdn/muscle-car-60s-524d46.mjs) |
@@ -173,6 +174,7 @@
 | [Teardrop Trailer](https://polyfork.dev/asset/teardrop-trailer-580e25) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 3,012 | [GLB](https://polyfork.dev/cdn/teardrop-trailer-580e25.glb) · [module](https://polyfork.dev/cdn/teardrop-trailer-580e25.mjs) |
 | [Telehandler](https://polyfork.dev/asset/telehandler-88c668) | [Construction Site](../kits/construction-site-9e40b0.md) | 2,583 | [GLB](https://polyfork.dev/cdn/telehandler-88c668.glb) · [module](https://polyfork.dev/cdn/telehandler-88c668.mjs) |
 | [Tender Steam Locomotive](https://polyfork.dev/asset/tender-steam-locomotive-8e2a82) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 4,531 | [GLB](https://polyfork.dev/cdn/tender-steam-locomotive-8e2a82.glb) · [module](https://polyfork.dev/cdn/tender-steam-locomotive-8e2a82.mjs) |
+| [Three-Wheeled Delivery Mini Truck](https://polyfork.dev/asset/three-wheeled-delivery-mini-744094) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 3,266 | [GLB](https://polyfork.dev/cdn/three-wheeled-delivery-mini-744094.glb) · [module](https://polyfork.dev/cdn/three-wheeled-delivery-mini-744094.mjs) |
 | [Tipping Trailer](https://polyfork.dev/asset/tipping-trailer-061095) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 1,386 | [GLB](https://polyfork.dev/cdn/tipping-trailer-061095.glb) · [module](https://polyfork.dev/cdn/tipping-trailer-061095.mjs) |
 | [Touring Motorcycle](https://polyfork.dev/asset/touring-motorcycle-3b1ad3) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 3,340 | [GLB](https://polyfork.dev/cdn/touring-motorcycle-3b1ad3.glb) · [module](https://polyfork.dev/cdn/touring-motorcycle-3b1ad3.mjs) |
 | [Tow Truck](https://polyfork.dev/asset/tow-truck-7d04f8) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 3,115 | [GLB](https://polyfork.dev/cdn/tow-truck-7d04f8.glb) · [module](https://polyfork.dev/cdn/tow-truck-7d04f8.mjs) |

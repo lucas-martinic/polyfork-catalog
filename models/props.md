@@ -1,6 +1,6 @@
 # Props
 
-2,044 free low-poly models. [All types](../README.md#browse-by-type)
+2,056 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -17,6 +17,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Adjustable Hearth Cooking Lift](https://polyfork.dev/asset/adjustable-hearth-cooking-lift-bc42d1) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 958 | [GLB](https://polyfork.dev/cdn/adjustable-hearth-cooking-lift-bc42d1.glb) · [module](https://polyfork.dev/cdn/adjustable-hearth-cooking-lift-bc42d1.mjs) |
 | [Admiralty Anchor](https://polyfork.dev/asset/admiralty-anchor-bd6882) | [Coral Reef](../kits/coral-reef-a7128a.md) | 560 | [GLB](https://polyfork.dev/cdn/admiralty-anchor-bd6882.glb) · [module](https://polyfork.dev/cdn/admiralty-anchor-bd6882.mjs) |
 | [Adobe Tapia Wall Run](https://polyfork.dev/asset/adobe-tapia-wall-run-074dd5) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 658 | [GLB](https://polyfork.dev/cdn/adobe-tapia-wall-run-074dd5.glb) · [module](https://polyfork.dev/cdn/adobe-tapia-wall-run-074dd5.mjs) |
+| [Adventurer's Backpack](https://polyfork.dev/asset/adventurer-s-backpack-b1365c) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 828 | [GLB](https://polyfork.dev/cdn/adventurer-s-backpack-b1365c.glb) · [module](https://polyfork.dev/cdn/adventurer-s-backpack-b1365c.mjs) |
 | [Advertising Hoarding Run](https://polyfork.dev/asset/advertising-hoarding-run-efe4bc) | [Stadium](../kits/stadium-5db167.md) | 214 | [GLB](https://polyfork.dev/cdn/advertising-hoarding-run-efe4bc.glb) · [module](https://polyfork.dev/cdn/advertising-hoarding-run-efe4bc.mjs) |
 | [Agave](https://polyfork.dev/asset/agave-faf53a) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 657 | [GLB](https://polyfork.dev/cdn/agave-faf53a.glb) · [module](https://polyfork.dev/cdn/agave-faf53a.mjs) |
 | [Agility Bag Set](https://polyfork.dev/asset/agility-bag-set-e25fcd) | [Stadium](../kits/stadium-5db167.md) | 960 | [GLB](https://polyfork.dev/cdn/agility-bag-set-e25fcd.glb) · [module](https://polyfork.dev/cdn/agility-bag-set-e25fcd.mjs) |
@@ -198,6 +199,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Boomerang](https://polyfork.dev/asset/boomerang-efcc73) |  | 480 | [GLB](https://polyfork.dev/cdn/boomerang-efcc73.glb) · [module](https://polyfork.dev/cdn/boomerang-efcc73.mjs) |
 | [Booth Divider Screen](https://polyfork.dev/asset/booth-divider-screen-08f696) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 356 | [GLB](https://polyfork.dev/cdn/booth-divider-screen-08f696.glb) · [module](https://polyfork.dev/cdn/booth-divider-screen-08f696.mjs) |
 | [Bottle Cap](https://polyfork.dev/asset/bottle-cap-cd96db) | [Insect World kit](../kits/insect-world-e44b9f.md) | 808 | [GLB](https://polyfork.dev/cdn/bottle-cap-cd96db.glb) · [module](https://polyfork.dev/cdn/bottle-cap-cd96db.mjs) |
+| [Bougainvillea](https://polyfork.dev/asset/bougainvillea-cb4728) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 1,612 | [GLB](https://polyfork.dev/cdn/bougainvillea-cb4728.glb) · [module](https://polyfork.dev/cdn/bougainvillea-cb4728.mjs) |
 | [Bougainvillea Wall](https://polyfork.dev/asset/bougainvillea-wall-b67305) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 705 | [GLB](https://polyfork.dev/cdn/bougainvillea-wall-b67305.glb) · [module](https://polyfork.dev/cdn/bougainvillea-wall-b67305.mjs) |
 | [Boulder Field Cluster](https://polyfork.dev/asset/boulder-field-cluster-08e364) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 734 | [GLB](https://polyfork.dev/cdn/boulder-field-cluster-08e364.glb) · [module](https://polyfork.dev/cdn/boulder-field-cluster-08e364.mjs) |
 | [Boundary Fence Run](https://polyfork.dev/asset/boundary-fence-run-ed6782) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 406 | [GLB](https://polyfork.dev/cdn/boundary-fence-run-ed6782.glb) · [module](https://polyfork.dev/cdn/boundary-fence-run-ed6782.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Cut Amethyst](https://polyfork.dev/asset/cut-amethyst-494337) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 98 | [GLB](https://polyfork.dev/cdn/cut-amethyst-494337.glb) · [module](https://polyfork.dev/cdn/cut-amethyst-494337.mjs) |
 | [Cut Diamond](https://polyfork.dev/asset/cut-diamond-1fd38b) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 96 | [GLB](https://polyfork.dev/cdn/cut-diamond-1fd38b.glb) · [module](https://polyfork.dev/cdn/cut-diamond-1fd38b.mjs) |
 | [Cut Emerald](https://polyfork.dev/asset/cut-emerald-74d180) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 112 | [GLB](https://polyfork.dev/cdn/cut-emerald-74d180.glb) · [module](https://polyfork.dev/cdn/cut-emerald-74d180.mjs) |
-| [Cut Ruby](https://polyfork.dev/asset/cut-ruby-3ded3a) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 112 | [GLB](https://polyfork.dev/cdn/cut-ruby-3ded3a.glb) · [module](https://polyfork.dev/cdn/cut-ruby-3ded3a.mjs) |
-| [Cut Sapphire](https://polyfork.dev/asset/cut-sapphire-04ba83) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 126 | [GLB](https://polyfork.dev/cdn/cut-sapphire-04ba83.glb) · [module](https://polyfork.dev/cdn/cut-sapphire-04ba83.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

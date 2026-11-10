@@ -2,7 +2,7 @@
 
 <img src="../covers/three-kingdoms-settlements-a-1e817b.jpg" width="480" alt="Three Kingdoms Settlements low-poly 3D kit">
 
-In production, 8 parts so far. Every part below is already free to use.
+In production, 10 parts so far. Every part below is already free to use.
 
 [Open the kit on Polyfork](https://polyfork.dev/kit/three-kingdoms-settlements-a-1e817b) · [All kits](../README.md#kits)
 
@@ -15,8 +15,12 @@ In production, 8 parts so far. Every part below is already free to use.
 </tr>
 <tr>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/camp-gate-2de13f"><img src="https://polyfork.dev/files/camp-gate-2de13f/renders/hero.png?v=1794182464" width="150" alt="Camp Gate"></a><br><a href="https://polyfork.dev/asset/camp-gate-2de13f">Camp Gate</a><br><sub><a href="https://polyfork.dev/cdn/camp-gate-2de13f.glb">GLB</a> · <a href="https://polyfork.dev/cdn/camp-gate-2de13f.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/city-gate-77d012"><img src="https://polyfork.dev/files/city-gate-77d012/renders/hero.png?v=1794282316" width="150" alt="City Gate"></a><br><a href="https://polyfork.dev/asset/city-gate-77d012">City Gate</a><br><sub><a href="https://polyfork.dev/cdn/city-gate-77d012.glb">GLB</a> · <a href="https://polyfork.dev/cdn/city-gate-77d012.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/governor-s-audience-hall-a4d777"><img src="https://polyfork.dev/files/governor-s-audience-hall-a4d777/renders/hero.png?v=1794155628" width="150" alt="Governor&#039;s Audience Hall"></a><br><a href="https://polyfork.dev/asset/governor-s-audience-hall-a4d777">Governor&#039;s Audience Hall</a><br><sub><a href="https://polyfork.dev/cdn/governor-s-audience-hall-a4d777.glb">GLB</a> · <a href="https://polyfork.dev/cdn/governor-s-audience-hall-a4d777.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/leather-forge-bellows-7f6d42"><img src="https://polyfork.dev/files/leather-forge-bellows-7f6d42/renders/hero.png?v=1794166872" width="150" alt="Leather Forge Bellows"></a><br><a href="https://polyfork.dev/asset/leather-forge-bellows-7f6d42">Leather Forge Bellows</a><br><sub><a href="https://polyfork.dev/cdn/leather-forge-bellows-7f6d42.glb">GLB</a> · <a href="https://polyfork.dev/cdn/leather-forge-bellows-7f6d42.mjs">module</a></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/mounted-bed-crossbow-edb36f"><img src="https://polyfork.dev/files/mounted-bed-crossbow-edb36f/renders/hero.png?v=1794213378" width="150" alt="Mounted Bed Crossbow"></a><br><a href="https://polyfork.dev/asset/mounted-bed-crossbow-edb36f">Mounted Bed Crossbow</a><br><sub><a href="https://polyfork.dev/cdn/mounted-bed-crossbow-edb36f.glb">GLB</a> · <a href="https://polyfork.dev/cdn/mounted-bed-crossbow-edb36f.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/signal-beacon-tower-9c0d1a"><img src="https://polyfork.dev/files/signal-beacon-tower-9c0d1a/renders/hero.png?v=1794159299" width="150" alt="Signal Beacon Tower"></a><br><a href="https://polyfork.dev/asset/signal-beacon-tower-9c0d1a">Signal Beacon Tower</a><br><sub><a href="https://polyfork.dev/cdn/signal-beacon-tower-9c0d1a.glb">GLB</a> · <a href="https://polyfork.dev/cdn/signal-beacon-tower-9c0d1a.mjs">module</a></sub></td>
 </tr>
 </table>

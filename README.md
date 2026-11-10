@@ -1,6 +1,6 @@
 # Polyfork: free low-poly 3D models
 
-**3,156 free low-poly 3D models and 29 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
+**3,205 free low-poly 3D models and 30 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
 
 [Browse on polyfork.dev](https://polyfork.dev/assets) · [Kits](#kits) · [By type](#browse-by-type) · [catalog.json](catalog.json)
 
@@ -112,6 +112,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 <tr>
 <td align="center" valign="top" width="33%"><a href="kits/spaceship-wars-kit-234642.md"><img src="covers/spaceship-wars-kit-234642.jpg" alt="Spaceship Wars Kit low-poly 3D kit"><br><strong>Spaceship Wars Kit</strong></a><br><sub>29 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/stadium-5db167.md"><img src="covers/stadium-5db167.jpg" alt="Stadium low-poly 3D kit"><br><strong>Stadium</strong></a><br><sub>71 parts</sub></td>
+<td align="center" valign="top" width="33%"><a href="kits/symphony-stagecraft-kit-bf2de0.md"><img src="covers/symphony-stagecraft-kit-bf2de0.jpg" alt="Symphony Stagecraft kit low-poly 3D kit"><br><strong>Symphony Stagecraft kit</strong></a><br><sub>64 parts</sub></td>
 </tr>
 </table>
 
@@ -120,24 +121,23 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 - [Airport](kits/airport-43b137.md), 31 parts so far
 - [Alpine and Snow](kits/alpine-and-snow-092f66.md), 59 parts so far
 - [Chile: Fiestas Patrias](kits/chile-fiestas-patrias-87e847.md), 62 parts so far
-- [Christmas Village](kits/christmas-village-fbc27a.md), 6 parts so far
+- [Christmas Village](kits/christmas-village-fbc27a.md), 17 parts so far
 - [Coast and Boardwalk](kits/coast-and-boardwalk-d883fd.md), 60 parts so far
-- [Dragons Lair](kits/dragons-lair-dark-dragon-782570.md), 59 parts so far
+- [Dragons Lair](kits/dragons-lair-dark-dragon-782570.md), 60 parts so far
 - [Dungeon & Crypt](kits/dungeon-crypt-c27d93.md), 67 parts so far
 - [Easter Island (Rapa Nui)](kits/easter-island-rapa-nui-368e86.md), 59 parts so far
-- [Grimlight Denizens kit](kits/grimlight-denizens-kit-a6dc02.md), 1 part so far
+- [Grimlight Denizens kit](kits/grimlight-denizens-kit-a6dc02.md), 15 parts so far
 - [Hotel Casino kit](kits/casino-3dd029.md), 122 parts so far
 - [Insect World kit](kits/insect-world-e44b9f.md), 58 parts so far
 - [Medieval Japan](kits/medieval-japan-cb01ad.md), 60 parts so far
-- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 3 parts so far
-- [Mythic Character Vault](kits/the-ultimate-rpg-character-a066e1.md), 4 parts so far
+- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 8 parts so far
+- [Mythic Character Vault](kits/the-ultimate-rpg-character-a066e1.md), 6 parts so far
 - [Nature & Forest Kit](kits/nature-forest-kit-f29d6a.md), 59 parts so far
 - [Open Plan](kits/open-plan-b2ebd3.md), 63 parts so far
 - [Prehistoric Valley](kits/prehistoric-valley-8638dc.md), 59 parts so far
 - [Research Lab](kits/research-lab-9b9b5d.md), 61 parts so far
 - [Roadside Americana](kits/roadside-americana-50d40c.md), 60 parts so far
-- [Symphony Stagecraft kit](kits/symphony-stagecraft-kit-bf2de0.md), 51 parts so far
-- [Three Kingdoms Settlements](kits/three-kingdoms-settlements-a-1e817b.md), 8 parts so far
+- [Three Kingdoms Settlements](kits/three-kingdoms-settlements-a-1e817b.md), 10 parts so far
 - [University](kits/university-959b66.md), 61 parts so far
 
 ## Browse by type
@@ -145,10 +145,10 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 | Type | Models |
 |---|--:|
 | [Characters](models/characters.md) | 198 |
-| [Animals](models/animals.md) | 146 |
-| [Buildings](models/buildings.md) | 420 |
-| [Vehicles](models/vehicles.md) | 192 |
-| [Props](models/props.md) | 2,044 |
+| [Animals](models/animals.md) | 176 |
+| [Buildings](models/buildings.md) | 425 |
+| [Vehicles](models/vehicles.md) | 194 |
+| [Props](models/props.md) | 2,056 |
 | [Terrain](models/terrain.md) | 20 |
 | [Attachments](models/attachments.md) | 48 |
 | [Nano](models/nano.md) | 86 |

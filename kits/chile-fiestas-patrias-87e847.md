@@ -99,6 +99,6 @@ In production, 62 parts so far. Every part below is already free to use.
 </tr>
 <tr>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/trompo-80e3a5"><img src="https://polyfork.dev/files/trompo-80e3a5/renders/hero.png?v=1792946378" width="150" alt="Trompo"></a><br><a href="https://polyfork.dev/asset/trompo-80e3a5">Trompo</a><br><sub><a href="https://polyfork.dev/cdn/trompo-80e3a5.glb">GLB</a> · <a href="https://polyfork.dev/cdn/trompo-80e3a5.mjs">module</a></sub></td>
-<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/volantin-398e88"><img src="https://polyfork.dev/files/volantin-398e88/renders/hero.png?v=1794179248" width="150" alt="Volantin"></a><br><a href="https://polyfork.dev/asset/volantin-398e88">Volantin</a><br><sub><a href="https://polyfork.dev/cdn/volantin-398e88.glb">GLB</a> · <a href="https://polyfork.dev/cdn/volantin-398e88.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/volantin-398e88"><img src="https://polyfork.dev/files/volantin-398e88/renders/hero.png?v=1794214940" width="150" alt="Volantin"></a><br><a href="https://polyfork.dev/asset/volantin-398e88">Volantin</a><br><sub><a href="https://polyfork.dev/cdn/volantin-398e88.glb">GLB</a> · <a href="https://polyfork.dev/cdn/volantin-398e88.mjs">module</a></sub></td>
 </tr>
 </table>
