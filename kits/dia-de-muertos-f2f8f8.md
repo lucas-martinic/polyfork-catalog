@@ -99,6 +99,6 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/veladoras-cdab5b"><img src="https://polyfork.dev/files/veladoras-cdab5b/renders/hero.png?v=1792437565" width="150" alt="Veladoras"></a><br><a href="https://polyfork.dev/asset/veladoras-cdab5b">Veladoras</a><br><sub><a href="https://polyfork.dev/cdn/veladoras-cdab5b.glb">GLB</a> · <a href="https://polyfork.dev/cdn/veladoras-cdab5b.mjs">module</a></sub></td>
-<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/xoloitzcuintli-1cd7c8"><img src="https://polyfork.dev/files/xoloitzcuintli-1cd7c8/renders/hero.png?v=1793719249" width="150" alt="Xoloitzcuintli"></a><br><a href="https://polyfork.dev/asset/xoloitzcuintli-1cd7c8">Xoloitzcuintli</a><br><sub><a href="https://polyfork.dev/cdn/xoloitzcuintli-1cd7c8.glb">GLB</a> · <a href="https://polyfork.dev/cdn/xoloitzcuintli-1cd7c8.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/xoloitzcuintli-1cd7c8"><img src="https://polyfork.dev/files/xoloitzcuintli-1cd7c8/renders/hero.png?v=1794336363" width="150" alt="Xoloitzcuintli"></a><br><a href="https://polyfork.dev/asset/xoloitzcuintli-1cd7c8">Xoloitzcuintli</a><br><sub><a href="https://polyfork.dev/cdn/xoloitzcuintli-1cd7c8.glb">GLB</a> · <a href="https://polyfork.dev/cdn/xoloitzcuintli-1cd7c8.mjs">module</a></sub></td>
 </tr>
 </table>

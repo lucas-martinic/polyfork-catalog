@@ -2,7 +2,7 @@
 
 <img src="../covers/the-ultimate-rpg-character-a066e1.jpg" width="480" alt="Mythic Character Vault low-poly 3D kit">
 
-In production, 6 parts so far. Every part below is already free to use.
+In production, 13 parts so far. Every part below is already free to use.
 
 [Open the kit on Polyfork](https://polyfork.dev/kit/the-ultimate-rpg-character-a066e1) · [All kits](../README.md#kits)
 
@@ -16,5 +16,16 @@ In production, 6 parts so far. Every part below is already free to use.
 <tr>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/climbable-stone-wall-0052e0"><img src="https://polyfork.dev/files/climbable-stone-wall-0052e0/renders/hero.png?v=1794212939" width="150" alt="Climbable Stone Wall"></a><br><a href="https://polyfork.dev/asset/climbable-stone-wall-0052e0">Climbable Stone Wall</a><br><sub><a href="https://polyfork.dev/cdn/climbable-stone-wall-0052e0.glb">GLB</a> · <a href="https://polyfork.dev/cdn/climbable-stone-wall-0052e0.mjs">module</a></sub></td>
 <td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/corked-potion-vial-a6e7e9"><img src="https://polyfork.dev/files/corked-potion-vial-a6e7e9/renders/hero.png?v=1794183271" width="150" alt="Corked Potion Vial"></a><br><a href="https://polyfork.dev/asset/corked-potion-vial-a6e7e9">Corked Potion Vial</a><br><sub><a href="https://polyfork.dev/cdn/corked-potion-vial-a6e7e9.glb">GLB</a> · <a href="https://polyfork.dev/cdn/corked-potion-vial-a6e7e9.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/double-bit-greataxe-d4f81b"><img src="https://polyfork.dev/files/double-bit-greataxe-d4f81b/renders/hero.png?v=1794322329" width="150" alt="Double-Bit Greataxe"></a><br><a href="https://polyfork.dev/asset/double-bit-greataxe-d4f81b">Double-Bit Greataxe</a><br><sub><a href="https://polyfork.dev/cdn/double-bit-greataxe-d4f81b.glb">GLB</a> · <a href="https://polyfork.dev/cdn/double-bit-greataxe-d4f81b.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/falchion-cf01a7"><img src="https://polyfork.dev/files/falchion-cf01a7/renders/hero.png?v=1794333728" width="150" alt="Falchion"></a><br><a href="https://polyfork.dev/asset/falchion-cf01a7">Falchion</a><br><sub><a href="https://polyfork.dev/cdn/falchion-cf01a7.glb">GLB</a> · <a href="https://polyfork.dev/cdn/falchion-cf01a7.mjs">module</a></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/grappling-hook-c05b86"><img src="https://polyfork.dev/files/grappling-hook-c05b86/renders/hero.png?v=1794347010" width="150" alt="Grappling Hook"></a><br><a href="https://polyfork.dev/asset/grappling-hook-c05b86">Grappling Hook</a><br><sub><a href="https://polyfork.dev/cdn/grappling-hook-c05b86.glb">GLB</a> · <a href="https://polyfork.dev/cdn/grappling-hook-c05b86.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/leather-belt-satchel-5bb107"><img src="https://polyfork.dev/files/leather-belt-satchel-5bb107/renders/hero.png?v=1794357171" width="150" alt="Leather Belt Satchel"></a><br><a href="https://polyfork.dev/asset/leather-belt-satchel-5bb107">Leather Belt Satchel</a><br><sub><a href="https://polyfork.dev/cdn/leather-belt-satchel-5bb107.glb">GLB</a> · <a href="https://polyfork.dev/cdn/leather-belt-satchel-5bb107.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/living-wood-druid-staff-fd83c1"><img src="https://polyfork.dev/files/living-wood-druid-staff-fd83c1/renders/hero.png?v=1794358711" width="150" alt="Living-Wood Druid Staff"></a><br><a href="https://polyfork.dev/asset/living-wood-druid-staff-fd83c1">Living-Wood Druid Staff</a><br><sub><a href="https://polyfork.dev/cdn/living-wood-druid-staff-fd83c1.glb">GLB</a> · <a href="https://polyfork.dev/cdn/living-wood-druid-staff-fd83c1.mjs">module</a></sub></td>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/magic-wand-83682a"><img src="https://polyfork.dev/files/magic-wand-83682a/renders/hero.png?v=1794358406" width="150" alt="Magic Wand"></a><br><a href="https://polyfork.dev/asset/magic-wand-83682a">Magic Wand</a><br><sub><a href="https://polyfork.dev/cdn/magic-wand-83682a.glb">GLB</a> · <a href="https://polyfork.dev/cdn/magic-wand-83682a.mjs">module</a></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%"><a href="https://polyfork.dev/asset/monk-s-quarterstaff-cbdadd"><img src="https://polyfork.dev/files/monk-s-quarterstaff-cbdadd/renders/hero.png?v=1794362811" width="150" alt="Monk&#039;s Quarterstaff"></a><br><a href="https://polyfork.dev/asset/monk-s-quarterstaff-cbdadd">Monk&#039;s Quarterstaff</a><br><sub><a href="https://polyfork.dev/cdn/monk-s-quarterstaff-cbdadd.glb">GLB</a> · <a href="https://polyfork.dev/cdn/monk-s-quarterstaff-cbdadd.mjs">module</a></sub></td>
 </tr>
 </table>

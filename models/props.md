@@ -1,11 +1,12 @@
 # Props
 
-2,056 free low-poly models. [All types](../README.md#browse-by-type)
+2,075 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [A-Frame Cut Tree Rack](https://polyfork.dev/asset/a-frame-cut-tree-7bb743) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 742 | [GLB](https://polyfork.dev/cdn/a-frame-cut-tree-7bb743.glb) · [module](https://polyfork.dev/cdn/a-frame-cut-tree-7bb743.mjs) |
 | [Abandoned Shopping Trolley](https://polyfork.dev/asset/abandoned-shopping-trolley-3de6cb) | [Skatepark kit](../kits/skatepark-0922a9.md) | 889 | [GLB](https://polyfork.dev/cdn/abandoned-shopping-trolley-3de6cb.glb) · [module](https://polyfork.dev/cdn/abandoned-shopping-trolley-3de6cb.mjs) |
 | [Above-Ground Pool](https://polyfork.dev/asset/above-ground-pool-95b23e) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 776 | [GLB](https://polyfork.dev/cdn/above-ground-pool-95b23e.glb) · [module](https://polyfork.dev/cdn/above-ground-pool-95b23e.mjs) |
 | [Access Control Speedgate](https://polyfork.dev/asset/access-control-speedgate-19705e) | [Office](../kits/office-794453.md) | 434 | [GLB](https://polyfork.dev/cdn/access-control-speedgate-19705e.glb) · [module](https://polyfork.dev/cdn/access-control-speedgate-19705e.mjs) |
@@ -166,6 +167,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Beverage Crate](https://polyfork.dev/asset/beverage-crate-c195c9) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 580 | [GLB](https://polyfork.dev/cdn/beverage-crate-c195c9.glb) · [module](https://polyfork.dev/cdn/beverage-crate-c195c9.mjs) |
 | [Bicycle Parking Rack](https://polyfork.dev/asset/bicycle-parking-rack-282058) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 460 | [GLB](https://polyfork.dev/cdn/bicycle-parking-rack-282058.glb) · [module](https://polyfork.dev/cdn/bicycle-parking-rack-282058.mjs) |
 | [Big Six Money Wheel](https://polyfork.dev/asset/big-six-money-wheel-0f7174) | [Hotel Casino kit](../kits/casino-3dd029.md) | 877 | [GLB](https://polyfork.dev/cdn/big-six-money-wheel-0f7174.glb) · [module](https://polyfork.dev/cdn/big-six-money-wheel-0f7174.mjs) |
+| [Big Wrapped Present](https://polyfork.dev/asset/big-wrapped-present-57b639) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 848 | [GLB](https://polyfork.dev/cdn/big-wrapped-present-57b639.glb) · [module](https://polyfork.dev/cdn/big-wrapped-present-57b639.mjs) |
 | [Bike Rack](https://polyfork.dev/asset/bike-rack-a1e7c3) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 480 | [GLB](https://polyfork.dev/cdn/bike-rack-a1e7c3.glb) · [module](https://polyfork.dev/cdn/bike-rack-a1e7c3.mjs) |
 | [Bike Repair Post](https://polyfork.dev/asset/bike-repair-post-1517f2) | [Skatepark kit](../kits/skatepark-0922a9.md) | 750 | [GLB](https://polyfork.dev/cdn/bike-repair-post-1517f2.glb) · [module](https://polyfork.dev/cdn/bike-repair-post-1517f2.mjs) |
 | [Biosafety Cabinet](https://polyfork.dev/asset/biosafety-cabinet-a46204) | [Research Lab](../kits/research-lab-9b9b5d.md) | 498 | [GLB](https://polyfork.dev/cdn/biosafety-cabinet-a46204.glb) · [module](https://polyfork.dev/cdn/biosafety-cabinet-a46204.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Curved Track](https://polyfork.dev/asset/curved-track-819ec6) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 624 | [GLB](https://polyfork.dev/cdn/curved-track-819ec6.glb) · [module](https://polyfork.dev/cdn/curved-track-819ec6.mjs) |
 | [Cushion](https://polyfork.dev/asset/cushion-121479) | [Open Plan](../kits/open-plan-b2ebd3.md) | 512 | [GLB](https://polyfork.dev/cdn/cushion-121479.glb) · [module](https://polyfork.dev/cdn/cushion-121479.mjs) |
 | [Cut Amethyst](https://polyfork.dev/asset/cut-amethyst-494337) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 98 | [GLB](https://polyfork.dev/cdn/cut-amethyst-494337.glb) · [module](https://polyfork.dev/cdn/cut-amethyst-494337.mjs) |
-| [Cut Diamond](https://polyfork.dev/asset/cut-diamond-1fd38b) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 96 | [GLB](https://polyfork.dev/cdn/cut-diamond-1fd38b.glb) · [module](https://polyfork.dev/cdn/cut-diamond-1fd38b.mjs) |
-| [Cut Emerald](https://polyfork.dev/asset/cut-emerald-74d180) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 112 | [GLB](https://polyfork.dev/cdn/cut-emerald-74d180.glb) · [module](https://polyfork.dev/cdn/cut-emerald-74d180.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

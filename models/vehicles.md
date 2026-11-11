@@ -1,6 +1,6 @@
 # Vehicles
 
-194 free low-poly models. [All types](../README.md#browse-by-type)
+196 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -20,6 +20,7 @@
 | [Breakdown Crane](https://polyfork.dev/asset/breakdown-crane-6a67d9) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 3,628 | [GLB](https://polyfork.dev/cdn/breakdown-crane-6a67d9.glb) · [module](https://polyfork.dev/cdn/breakdown-crane-6a67d9.mjs) |
 | [Buckboard Wagon](https://polyfork.dev/asset/buckboard-wagon-59ec16) | [Frontier Town](../kits/frontier-town-a0085b.md) | 2,814 | [GLB](https://polyfork.dev/cdn/buckboard-wagon-59ec16.glb) · [module](https://polyfork.dev/cdn/buckboard-wagon-59ec16.mjs) |
 | [Business Jet](https://polyfork.dev/asset/business-jet-684611) | [Airport](../kits/airport-43b137.md) | 4,493 | [GLB](https://polyfork.dev/cdn/business-jet-684611.glb) · [module](https://polyfork.dev/cdn/business-jet-684611.mjs) |
+| [Caique Fishing Boat](https://polyfork.dev/asset/caique-fishing-boat-262c24) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 2,636 | [GLB](https://polyfork.dev/cdn/caique-fishing-boat-262c24.glb) · [module](https://polyfork.dev/cdn/caique-fishing-boat-262c24.mjs) |
 | [Camp Canoe](https://polyfork.dev/asset/camp-canoe-c65d2a) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 2,222 | [GLB](https://polyfork.dev/cdn/camp-canoe-c65d2a.glb) · [module](https://polyfork.dev/cdn/camp-canoe-c65d2a.mjs) |
 | [Camper Trailer](https://polyfork.dev/asset/camper-trailer-b2f706) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 2,396 | [GLB](https://polyfork.dev/cdn/camper-trailer-b2f706.glb) · [module](https://polyfork.dev/cdn/camper-trailer-b2f706.mjs) |
 | [Camper-van](https://polyfork.dev/asset/camper-van-8d10e2) | [Retro Cars Kit](../kits/racing-cars-kit-660d53.md) | 3,971 | [GLB](https://polyfork.dev/cdn/camper-van-8d10e2.glb) · [module](https://polyfork.dev/cdn/camper-van-8d10e2.mjs) |
@@ -143,6 +144,7 @@
 | [Rowing Dinghy](https://polyfork.dev/asset/rowing-dinghy-022673) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 2,265 | [GLB](https://polyfork.dev/cdn/rowing-dinghy-022673.glb) · [module](https://polyfork.dev/cdn/rowing-dinghy-022673.mjs) |
 | [RV Travel Trailer](https://polyfork.dev/asset/rv-travel-trailer-bd53d7) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 2,756 | [GLB](https://polyfork.dev/cdn/rv-travel-trailer-bd53d7.glb) · [module](https://polyfork.dev/cdn/rv-travel-trailer-bd53d7.mjs) |
 | [Salvage hand cart](https://polyfork.dev/asset/salvage-hand-cart-222304) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 2,397 | [GLB](https://polyfork.dev/cdn/salvage-hand-cart-222304.glb) · [module](https://polyfork.dev/cdn/salvage-hand-cart-222304.mjs) |
+| [Santa's Sleigh](https://polyfork.dev/asset/santa-s-sleigh-f1a047) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 2,858 | [GLB](https://polyfork.dev/cdn/santa-s-sleigh-f1a047.glb) · [module](https://polyfork.dev/cdn/santa-s-sleigh-f1a047.mjs) |
 | [Scissor Lift Platform](https://polyfork.dev/asset/scissor-lift-platform-3eae3f) | [Construction Site](../kits/construction-site-9e40b0.md) | 2,337 | [GLB](https://polyfork.dev/cdn/scissor-lift-platform-3eae3f.glb) · [module](https://polyfork.dev/cdn/scissor-lift-platform-3eae3f.mjs) |
 | [Scout Jeep](https://polyfork.dev/asset/scout-jeep-c02efe) |  | 1,772 | [GLB](https://polyfork.dev/cdn/scout-jeep-c02efe.glb) · [module](https://polyfork.dev/cdn/scout-jeep-c02efe.mjs) |
 | [Scout Ship](https://polyfork.dev/asset/scout-ship-289ccc) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 3,418 | [GLB](https://polyfork.dev/cdn/scout-ship-289ccc.glb) · [module](https://polyfork.dev/cdn/scout-ship-289ccc.mjs) |

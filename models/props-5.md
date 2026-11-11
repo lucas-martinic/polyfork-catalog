@@ -1,11 +1,29 @@
 # Props
 
-2,056 free low-poly models. [All types](../README.md#browse-by-type)
+2,075 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Wet Packed Sand Tile](https://polyfork.dev/asset/wet-packed-sand-tile-913ddb) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 727 | [GLB](https://polyfork.dev/cdn/wet-packed-sand-tile-913ddb.glb) · [module](https://polyfork.dev/cdn/wet-packed-sand-tile-913ddb.mjs) |
+| [Wet-Erase Marker](https://polyfork.dev/asset/wet-erase-marker-779cfc) | [Emerald Gilded Runes kit](../kits/emerald-gilded-runes-kit-abfc30.md) | 524 | [GLB](https://polyfork.dev/cdn/wet-erase-marker-779cfc.glb) · [module](https://polyfork.dev/cdn/wet-erase-marker-779cfc.mjs) |
+| [Wetland Boardwalk Run](https://polyfork.dev/asset/wetland-boardwalk-run-6aa967) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 480 | [GLB](https://polyfork.dev/cdn/wetland-boardwalk-run-6aa967.glb) · [module](https://polyfork.dev/cdn/wetland-boardwalk-run-6aa967.mjs) |
+| [Wheat Crop](https://polyfork.dev/asset/wheat-crop-7e08e6) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 672 | [GLB](https://polyfork.dev/cdn/wheat-crop-7e08e6.glb) · [module](https://polyfork.dev/cdn/wheat-crop-7e08e6.mjs) |
+| [Wheat Plant](https://polyfork.dev/asset/wheat-plant-7f29a1) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 407 | [GLB](https://polyfork.dev/cdn/wheat-plant-7f29a1.glb) · [module](https://polyfork.dev/cdn/wheat-plant-7f29a1.mjs) |
+| [Wheel Scuff Decal](https://polyfork.dev/asset/wheel-scuff-decal-d783d3) | [Skatepark kit](../kits/skatepark-0922a9.md) | 528 | [GLB](https://polyfork.dev/cdn/wheel-scuff-decal-d783d3.glb) · [module](https://polyfork.dev/cdn/wheel-scuff-decal-d783d3.mjs) |
+| [Wheel Wash](https://polyfork.dev/asset/wheel-wash-d1ca0f) | [Construction Site](../kits/construction-site-9e40b0.md) | 874 | [GLB](https://polyfork.dev/cdn/wheel-wash-d1ca0f.glb) · [module](https://polyfork.dev/cdn/wheel-wash-d1ca0f.mjs) |
+| [Wheelbarrow](https://polyfork.dev/asset/wheelbarrow-0f8406) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 556 | [GLB](https://polyfork.dev/cdn/wheelbarrow-0f8406.glb) · [module](https://polyfork.dev/cdn/wheelbarrow-0f8406.mjs) |
+| [Wheelchair](https://polyfork.dev/asset/wheelchair-0584dc) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 788 | [GLB](https://polyfork.dev/cdn/wheelchair-0584dc.glb) · [module](https://polyfork.dev/cdn/wheelchair-0584dc.mjs) |
+| [Wheeled Easel Board](https://polyfork.dev/asset/wheeled-easel-board-6f9204) |  | 654 | [GLB](https://polyfork.dev/cdn/wheeled-easel-board-6f9204.glb) · [module](https://polyfork.dev/cdn/wheeled-easel-board-6f9204.mjs) |
+| [Wheeled Fire Extinguisher](https://polyfork.dev/asset/wheeled-fire-extinguisher-4bde8b) | [Airport](../kits/airport-43b137.md) | 932 | [GLB](https://polyfork.dev/cdn/wheeled-fire-extinguisher-4bde8b.glb) · [module](https://polyfork.dev/cdn/wheeled-fire-extinguisher-4bde8b.mjs) |
+| [Whiskey Barrel](https://polyfork.dev/asset/whiskey-barrel-7bb83f) | [Frontier Town](../kits/frontier-town-a0085b.md) | 690 | [GLB](https://polyfork.dev/cdn/whiskey-barrel-7bb83f.glb) · [module](https://polyfork.dev/cdn/whiskey-barrel-7bb83f.mjs) |
+| [Whiskey Bottle and Glass Set](https://polyfork.dev/asset/whiskey-bottle-and-glass-fa24b4) | [Frontier Town](../kits/frontier-town-a0085b.md) | 464 | [GLB](https://polyfork.dev/cdn/whiskey-bottle-and-glass-fa24b4.glb) · [module](https://polyfork.dev/cdn/whiskey-bottle-and-glass-fa24b4.mjs) |
+| [White Clover Plant](https://polyfork.dev/asset/white-clover-plant-6ed185) | [Insect World kit](../kits/insect-world-e44b9f.md) | 539 | [GLB](https://polyfork.dev/cdn/white-clover-plant-6ed185.glb) · [module](https://polyfork.dev/cdn/white-clover-plant-6ed185.mjs) |
+| [White Sand Bed Insert](https://polyfork.dev/asset/white-sand-bed-insert-ab9277) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 478 | [GLB](https://polyfork.dev/cdn/white-sand-bed-insert-ab9277.glb) · [module](https://polyfork.dev/cdn/white-sand-bed-insert-ab9277.mjs) |
+| [Whiteboard](https://polyfork.dev/asset/whiteboard-ea98f7) | [Office](../kits/office-794453.md) | 512 | [GLB](https://polyfork.dev/cdn/whiteboard-ea98f7.glb) · [module](https://polyfork.dev/cdn/whiteboard-ea98f7.mjs) |
+| [Wildflower](https://polyfork.dev/asset/wildflower-68d3a1) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 405 | [GLB](https://polyfork.dev/cdn/wildflower-68d3a1.glb) · [module](https://polyfork.dev/cdn/wildflower-68d3a1.mjs) |
+| [Wildflower plant](https://polyfork.dev/asset/wildflower-plant-cf4279) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 516 | [GLB](https://polyfork.dev/cdn/wildflower-plant-cf4279.glb) · [module](https://polyfork.dev/cdn/wildflower-plant-cf4279.mjs) |
 | [Williamsonia](https://polyfork.dev/asset/williamsonia-7b0a4f) | [Prehistoric Valley](../kits/prehistoric-valley-8638dc.md) | 908 | [GLB](https://polyfork.dev/cdn/williamsonia-7b0a4f.glb) · [module](https://polyfork.dev/cdn/williamsonia-7b0a4f.mjs) |
 | [Williamsoniella Flowering Shrub](https://polyfork.dev/asset/williamsoniella-flowering-shrub-dc53ae) | [Prehistoric Valley](../kits/prehistoric-valley-8638dc.md) | 831 | [GLB](https://polyfork.dev/cdn/williamsoniella-flowering-shrub-dc53ae.glb) · [module](https://polyfork.dev/cdn/williamsoniella-flowering-shrub-dc53ae.mjs) |
 | [Windblown Larch](https://polyfork.dev/asset/windblown-larch-abb99c) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 874 | [GLB](https://polyfork.dev/cdn/windblown-larch-abb99c.glb) · [module](https://polyfork.dev/cdn/windblown-larch-abb99c.mjs) |
@@ -42,6 +60,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 | [Worktop Run](https://polyfork.dev/asset/worktop-run-643552) | [Open Plan](../kits/open-plan-b2ebd3.md) | 180 | [GLB](https://polyfork.dev/cdn/worktop-run-643552.glb) · [module](https://polyfork.dev/cdn/worktop-run-643552.mjs) |
 | [Woven Storage Basket](https://polyfork.dev/asset/woven-storage-basket-983d80) | [Open Plan](../kits/open-plan-b2ebd3.md) | 672 | [GLB](https://polyfork.dev/cdn/woven-storage-basket-983d80.glb) · [module](https://polyfork.dev/cdn/woven-storage-basket-983d80.mjs) |
 | [Wraith Miniature](https://polyfork.dev/asset/wraith-miniature-3e4524) | [Emerald Gilded Runes kit](../kits/emerald-gilded-runes-kit-abfc30.md) | 940 | [GLB](https://polyfork.dev/cdn/wraith-miniature-3e4524.glb) · [module](https://polyfork.dev/cdn/wraith-miniature-3e4524.mjs) |
+| [Wrapped Present Pile](https://polyfork.dev/asset/wrapped-present-pile-b2ddd9) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 788 | [GLB](https://polyfork.dev/cdn/wrapped-present-pile-b2ddd9.glb) · [module](https://polyfork.dev/cdn/wrapped-present-pile-b2ddd9.mjs) |
 | [Wreckage Chunk](https://polyfork.dev/asset/wreckage-chunk-39ddf9) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 666 | [GLB](https://polyfork.dev/cdn/wreckage-chunk-39ddf9.glb) · [module](https://polyfork.dev/cdn/wreckage-chunk-39ddf9.mjs) |
 | [Wrecked Hull Section](https://polyfork.dev/asset/wrecked-hull-section-ca6755) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 705 | [GLB](https://polyfork.dev/cdn/wrecked-hull-section-ca6755.glb) · [module](https://polyfork.dev/cdn/wrecked-hull-section-ca6755.mjs) |
 | [Wrist Menu Band](https://polyfork.dev/asset/wrist-menu-band-ce6cae) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 800 | [GLB](https://polyfork.dev/cdn/wrist-menu-band-ce6cae.glb) · [module](https://polyfork.dev/cdn/wrist-menu-band-ce6cae.mjs) |
