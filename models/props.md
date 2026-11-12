@@ -1,6 +1,6 @@
 # Props
 
-2,075 free low-poly models. [All types](../README.md#browse-by-type)
+2,093 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -218,7 +218,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Brass Service Bell](https://polyfork.dev/asset/brass-service-bell-5677fb) | [Hotel Casino kit](../kits/casino-3dd029.md) | 476 | [GLB](https://polyfork.dev/cdn/brass-service-bell-5677fb.glb) · [module](https://polyfork.dev/cdn/brass-service-bell-5677fb.mjs) |
 | [Brass-fitted water butt](https://polyfork.dev/asset/brass-fitted-water-butt-3bca1b) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 738 | [GLB](https://polyfork.dev/cdn/brass-fitted-water-butt-3bca1b.glb) · [module](https://polyfork.dev/cdn/brass-fitted-water-butt-3bca1b.mjs) |
 | [Breakout Sofa Module](https://polyfork.dev/asset/breakout-sofa-module-1bb15e) | [Office](../kits/office-794453.md) | 576 | [GLB](https://polyfork.dev/cdn/breakout-sofa-module-1bb15e.glb) · [module](https://polyfork.dev/cdn/breakout-sofa-module-1bb15e.mjs) |
-| [Breath Scorch Mark](https://polyfork.dev/asset/breath-scorch-mark-73fc72) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 558 | [GLB](https://polyfork.dev/cdn/breath-scorch-mark-73fc72.glb) · [module](https://polyfork.dev/cdn/breath-scorch-mark-73fc72.mjs) |
+| [Breath Scorch Mark](https://polyfork.dev/asset/breath-scorch-mark-73fc72) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 578 | [GLB](https://polyfork.dev/cdn/breath-scorch-mark-73fc72.glb) · [module](https://polyfork.dev/cdn/breath-scorch-mark-73fc72.mjs) |
 | [Broad Algae Frond](https://polyfork.dev/asset/broad-algae-frond-88a644) | [Coral Reef](../kits/coral-reef-a7128a.md) | 521 | [GLB](https://polyfork.dev/cdn/broad-algae-frond-88a644.glb) · [module](https://polyfork.dev/cdn/broad-algae-frond-88a644.mjs) |
 | [Broad Canopy Shade Tree](https://polyfork.dev/asset/broad-canopy-shade-tree-e7c4a2) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 394 | [GLB](https://polyfork.dev/cdn/broad-canopy-shade-tree-e7c4a2.glb) · [module](https://polyfork.dev/cdn/broad-canopy-shade-tree-e7c4a2.mjs) |
 | [Broadleaf Oak](https://polyfork.dev/asset/broadleaf-oak-997c22) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 457 | [GLB](https://polyfork.dev/cdn/broadleaf-oak-997c22.glb) · [module](https://polyfork.dev/cdn/broadleaf-oak-997c22.mjs) |
@@ -310,6 +310,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Catwalk corner](https://polyfork.dev/asset/catwalk-corner-ae4630) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 728 | [GLB](https://polyfork.dev/cdn/catwalk-corner-ae4630.glb) · [module](https://polyfork.dev/cdn/catwalk-corner-ae4630.mjs) |
 | [Catwalk gantry run](https://polyfork.dev/asset/catwalk-gantry-run-f23cac) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 758 | [GLB](https://polyfork.dev/cdn/catwalk-gantry-run-f23cac.glb) · [module](https://polyfork.dev/cdn/catwalk-gantry-run-f23cac.mjs) |
 | [Cauldron On Coals](https://polyfork.dev/asset/cauldron-on-coals-ddbab6) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 755 | [GLB](https://polyfork.dev/cdn/cauldron-on-coals-ddbab6.glb) · [module](https://polyfork.dev/cdn/cauldron-on-coals-ddbab6.mjs) |
+| [Cave Overhang Arch](https://polyfork.dev/asset/cave-overhang-arch-b3ef4e) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 788 | [GLB](https://polyfork.dev/cdn/cave-overhang-arch-b3ef4e.glb) · [module](https://polyfork.dev/cdn/cave-overhang-arch-b3ef4e.mjs) |
 | [Cazuela Pot](https://polyfork.dev/asset/cazuela-pot-79f0ee) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 755 | [GLB](https://polyfork.dev/cdn/cazuela-pot-79f0ee.glb) · [module](https://polyfork.dev/cdn/cazuela-pot-79f0ee.mjs) |
 | [Ceiling Cornice Run](https://polyfork.dev/asset/ceiling-cornice-run-d70ecd) | [Open Plan](../kits/open-plan-b2ebd3.md) | 482 | [GLB](https://polyfork.dev/cdn/ceiling-cornice-run-d70ecd.glb) · [module](https://polyfork.dev/cdn/ceiling-cornice-run-d70ecd.mjs) |
 | [Ceiling Pendant](https://polyfork.dev/asset/ceiling-pendant-d21307) | [Open Plan](../kits/open-plan-b2ebd3.md) | 450 | [GLB](https://polyfork.dev/cdn/ceiling-pendant-d21307.glb) · [module](https://polyfork.dev/cdn/ceiling-pendant-d21307.mjs) |
@@ -505,5 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Curved Panel](https://polyfork.dev/asset/curved-panel-97d28a) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 524 | [GLB](https://polyfork.dev/cdn/curved-panel-97d28a.glb) · [module](https://polyfork.dev/cdn/curved-panel-97d28a.mjs) |
 | [Curved Track](https://polyfork.dev/asset/curved-track-819ec6) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 624 | [GLB](https://polyfork.dev/cdn/curved-track-819ec6.glb) · [module](https://polyfork.dev/cdn/curved-track-819ec6.mjs) |
 | [Cushion](https://polyfork.dev/asset/cushion-121479) | [Open Plan](../kits/open-plan-b2ebd3.md) | 512 | [GLB](https://polyfork.dev/cdn/cushion-121479.glb) · [module](https://polyfork.dev/cdn/cushion-121479.mjs) |
-| [Cut Amethyst](https://polyfork.dev/asset/cut-amethyst-494337) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 98 | [GLB](https://polyfork.dev/cdn/cut-amethyst-494337.glb) · [module](https://polyfork.dev/cdn/cut-amethyst-494337.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

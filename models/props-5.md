@@ -1,11 +1,29 @@
 # Props
 
-2,075 free low-poly models. [All types](../README.md#browse-by-type)
+2,093 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Water Trough](https://polyfork.dev/asset/water-trough-df3ced) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 376 | [GLB](https://polyfork.dev/cdn/water-trough-df3ced.glb) · [module](https://polyfork.dev/cdn/water-trough-df3ced.mjs) |
+| [Watering Can](https://polyfork.dev/asset/watering-can-b22758) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 492 | [GLB](https://polyfork.dev/cdn/watering-can-b22758.glb) · [module](https://polyfork.dev/cdn/watering-can-b22758.mjs) |
+| [Wattle Panel Weaving Jig](https://polyfork.dev/asset/wattle-panel-weaving-jig-d1aa1c) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 754 | [GLB](https://polyfork.dev/cdn/wattle-panel-weaving-jig-d1aa1c.glb) · [module](https://polyfork.dev/cdn/wattle-panel-weaving-jig-d1aa1c.mjs) |
+| [Wavemaker Powerhead](https://polyfork.dev/asset/wavemaker-powerhead-fe0da2) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 674 | [GLB](https://polyfork.dev/cdn/wavemaker-powerhead-fe0da2.glb) · [module](https://polyfork.dev/cdn/wavemaker-powerhead-fe0da2.mjs) |
+| [Wayfinder Post](https://polyfork.dev/asset/wayfinder-post-961fcd) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 668 | [GLB](https://polyfork.dev/cdn/wayfinder-post-961fcd.glb) · [module](https://polyfork.dev/cdn/wayfinder-post-961fcd.mjs) |
+| [Wayfinding Stripe Decal](https://polyfork.dev/asset/wayfinding-stripe-decal-017b76) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 108 | [GLB](https://polyfork.dev/cdn/wayfinding-stripe-decal-017b76.glb) · [module](https://polyfork.dev/cdn/wayfinding-stripe-decal-017b76.mjs) |
+| [Wayfinding Totem (Decal)](https://polyfork.dev/asset/wayfinding-totem-decal-d2f704) | [University](../kits/university-959b66.md) | 534 | [GLB](https://polyfork.dev/cdn/wayfinding-totem-decal-d2f704.glb) · [module](https://polyfork.dev/cdn/wayfinding-totem-decal-d2f704.mjs) |
+| [Wayfinding Totem Sign](https://polyfork.dev/asset/wayfinding-totem-sign-dbb4be) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 452 | [GLB](https://polyfork.dev/cdn/wayfinding-totem-sign-dbb4be.glb) · [module](https://polyfork.dev/cdn/wayfinding-totem-sign-dbb4be.mjs) |
+| [Waypoint Beacon](https://polyfork.dev/asset/waypoint-beacon-23ba00) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 848 | [GLB](https://polyfork.dev/cdn/waypoint-beacon-23ba00.glb) · [module](https://polyfork.dev/cdn/waypoint-beacon-23ba00.mjs) |
+| [Weapon Rack](https://polyfork.dev/asset/weapon-rack-082d7f) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 630 | [GLB](https://polyfork.dev/cdn/weapon-rack-082d7f.glb) · [module](https://polyfork.dev/cdn/weapon-rack-082d7f.mjs) |
+| [Weapon Rack](https://polyfork.dev/asset/weapon-rack-eb5fe6) |  | 648 | [GLB](https://polyfork.dev/cdn/weapon-rack-eb5fe6.glb) · [module](https://polyfork.dev/cdn/weapon-rack-eb5fe6.mjs) |
+| [Weapon Scope](https://polyfork.dev/asset/weapon-scope-6b43b2) |  | 906 | [GLB](https://polyfork.dev/cdn/weapon-scope-6b43b2.glb) · [module](https://polyfork.dev/cdn/weapon-scope-6b43b2.mjs) |
+| [Weather Mast](https://polyfork.dev/asset/weather-mast-7d088f) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 502 | [GLB](https://polyfork.dev/cdn/weather-mast-7d088f.glb) · [module](https://polyfork.dev/cdn/weather-mast-7d088f.mjs) |
+| [Weather Station Mast](https://polyfork.dev/asset/weather-station-mast-f84278) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 891 | [GLB](https://polyfork.dev/cdn/weather-station-mast-f84278.glb) · [module](https://polyfork.dev/cdn/weather-station-mast-f84278.mjs) |
+| [Weathervane](https://polyfork.dev/asset/weathervane-4b2013) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 744 | [GLB](https://polyfork.dev/cdn/weathervane-4b2013.glb) · [module](https://polyfork.dev/cdn/weathervane-4b2013.mjs) |
+| [Weeping Stone Angel](https://polyfork.dev/asset/weeping-stone-angel-644ce3) | [Halloween Night](../kits/halloween-night-46ade4.md) | 834 | [GLB](https://polyfork.dev/cdn/weeping-stone-angel-644ce3.glb) · [module](https://polyfork.dev/cdn/weeping-stone-angel-644ce3.mjs) |
+| [Welcome Week Tent Stall](https://polyfork.dev/asset/welcome-week-tent-stall-c27020) | [University](../kits/university-959b66.md) | 774 | [GLB](https://polyfork.dev/cdn/welcome-week-tent-stall-c27020.glb) · [module](https://polyfork.dev/cdn/welcome-week-tent-stall-c27020.mjs) |
+| [Wet Floor Sign](https://polyfork.dev/asset/wet-floor-sign-d39967) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 504 | [GLB](https://polyfork.dev/cdn/wet-floor-sign-d39967.glb) · [module](https://polyfork.dev/cdn/wet-floor-sign-d39967.mjs) |
 | [Wet Packed Sand Tile](https://polyfork.dev/asset/wet-packed-sand-tile-913ddb) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 727 | [GLB](https://polyfork.dev/cdn/wet-packed-sand-tile-913ddb.glb) · [module](https://polyfork.dev/cdn/wet-packed-sand-tile-913ddb.mjs) |
 | [Wet-Erase Marker](https://polyfork.dev/asset/wet-erase-marker-779cfc) | [Emerald Gilded Runes kit](../kits/emerald-gilded-runes-kit-abfc30.md) | 524 | [GLB](https://polyfork.dev/cdn/wet-erase-marker-779cfc.glb) · [module](https://polyfork.dev/cdn/wet-erase-marker-779cfc.mjs) |
 | [Wetland Boardwalk Run](https://polyfork.dev/asset/wetland-boardwalk-run-6aa967) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 480 | [GLB](https://polyfork.dev/cdn/wetland-boardwalk-run-6aa967.glb) · [module](https://polyfork.dev/cdn/wetland-boardwalk-run-6aa967.mjs) |

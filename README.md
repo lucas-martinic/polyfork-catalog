@@ -1,6 +1,6 @@
 # Polyfork: free low-poly 3D models
 
-**3,251 free low-poly 3D models and 32 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
+**3,289 free low-poly 3D models and 32 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
 
 [Browse on polyfork.dev](https://polyfork.dev/assets) · [Kits](#kits) · [By type](#browse-by-type) · [catalog.json](catalog.json)
 
@@ -126,31 +126,31 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 - [Chile: Fiestas Patrias](kits/chile-fiestas-patrias-87e847.md), 62 parts so far
 - [Christmas Village](kits/christmas-village-fbc27a.md), 27 parts so far
 - [Coast and Boardwalk](kits/coast-and-boardwalk-d883fd.md), 60 parts so far
-- [Dragons Lair](kits/dragons-lair-dark-dragon-782570.md), 60 parts so far
+- [Dragons Lair](kits/dragons-lair-dark-dragon-782570.md), 62 parts so far
 - [Dungeon & Crypt](kits/dungeon-crypt-c27d93.md), 67 parts so far
 - [Easter Island (Rapa Nui)](kits/easter-island-rapa-nui-368e86.md), 59 parts so far
-- [Grimlight Denizens kit](kits/grimlight-denizens-kit-a6dc02.md), 27 parts so far
+- [Grimlight Denizens kit](kits/grimlight-denizens-kit-a6dc02.md), 34 parts so far
 - [Hotel Casino kit](kits/casino-3dd029.md), 122 parts so far
 - [Insect World kit](kits/insect-world-e44b9f.md), 58 parts so far
 - [Medieval Japan](kits/medieval-japan-cb01ad.md), 60 parts so far
-- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 12 parts so far
-- [Mythic Character Vault](kits/the-ultimate-rpg-character-a066e1.md), 13 parts so far
+- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 13 parts so far
+- [Mythic Character Vault](kits/the-ultimate-rpg-character-a066e1.md), 36 parts so far
 - [Open Plan](kits/open-plan-b2ebd3.md), 63 parts so far
 - [Prehistoric Valley](kits/prehistoric-valley-8638dc.md), 59 parts so far
 - [Research Lab](kits/research-lab-9b9b5d.md), 61 parts so far
 - [Roadside Americana](kits/roadside-americana-50d40c.md), 60 parts so far
-- [Three Kingdoms Settlements](kits/three-kingdoms-settlements-a-1e817b.md), 18 parts so far
+- [Three Kingdoms Settlements](kits/three-kingdoms-settlements-a-1e817b.md), 23 parts so far
 - [University](kits/university-959b66.md), 61 parts so far
 
 ## Browse by type
 
 | Type | Models |
 |---|--:|
-| [Characters](models/characters.md) | 198 |
-| [Animals](models/animals.md) | 195 |
-| [Buildings](models/buildings.md) | 430 |
+| [Characters](models/characters.md) | 199 |
+| [Animals](models/animals.md) | 211 |
+| [Buildings](models/buildings.md) | 433 |
 | [Vehicles](models/vehicles.md) | 196 |
-| [Props](models/props.md) | 2,075 |
+| [Props](models/props.md) | 2,093 |
 | [Terrain](models/terrain.md) | 21 |
 | [Attachments](models/attachments.md) | 48 |
 | [Nano](models/nano.md) | 86 |

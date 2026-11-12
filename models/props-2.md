@@ -1,11 +1,12 @@
 # Props
 
-2,075 free low-poly models. [All types](../README.md#browse-by-type)
+2,093 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Cut Amethyst](https://polyfork.dev/asset/cut-amethyst-494337) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 98 | [GLB](https://polyfork.dev/cdn/cut-amethyst-494337.glb) · [module](https://polyfork.dev/cdn/cut-amethyst-494337.mjs) |
 | [Cut Diamond](https://polyfork.dev/asset/cut-diamond-1fd38b) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 96 | [GLB](https://polyfork.dev/cdn/cut-diamond-1fd38b.glb) · [module](https://polyfork.dev/cdn/cut-diamond-1fd38b.mjs) |
 | [Cut Emerald](https://polyfork.dev/asset/cut-emerald-74d180) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 112 | [GLB](https://polyfork.dev/cdn/cut-emerald-74d180.glb) · [module](https://polyfork.dev/cdn/cut-emerald-74d180.mjs) |
 | [Cut Ruby](https://polyfork.dev/asset/cut-ruby-3ded3a) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 112 | [GLB](https://polyfork.dev/cdn/cut-ruby-3ded3a.glb) · [module](https://polyfork.dev/cdn/cut-ruby-3ded3a.mjs) |
@@ -331,6 +332,7 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Hammock on Posts](https://polyfork.dev/asset/hammock-on-posts-7d5c47) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 782 | [GLB](https://polyfork.dev/cdn/hammock-on-posts-7d5c47.glb) · [module](https://polyfork.dev/cdn/hammock-on-posts-7d5c47.mjs) |
 | [Hand Axe](https://polyfork.dev/asset/hand-axe-cee9e7) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 532 | [GLB](https://polyfork.dev/cdn/hand-axe-cee9e7.glb) · [module](https://polyfork.dev/cdn/hand-axe-cee9e7.mjs) |
 | [Hand Bell](https://polyfork.dev/asset/hand-bell-cc0a37) |  | 500 | [GLB](https://polyfork.dev/cdn/hand-bell-cc0a37.glb) · [module](https://polyfork.dev/cdn/hand-bell-cc0a37.mjs) |
+| [Hand Crossbow](https://polyfork.dev/asset/hand-crossbow-77a4c7) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 798 | [GLB](https://polyfork.dev/cdn/hand-crossbow-77a4c7.glb) · [module](https://polyfork.dev/cdn/hand-crossbow-77a4c7.mjs) |
 | [Hand Cursor](https://polyfork.dev/asset/hand-cursor-62192f) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 980 | [GLB](https://polyfork.dev/cdn/hand-cursor-62192f.glb) · [module](https://polyfork.dev/cdn/hand-cursor-62192f.mjs) |
 | [Hand Sanitiser Dispenser](https://polyfork.dev/asset/hand-sanitiser-dispenser-a48460) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 446 | [GLB](https://polyfork.dev/cdn/hand-sanitiser-dispenser-a48460.glb) · [module](https://polyfork.dev/cdn/hand-sanitiser-dispenser-a48460.mjs) |
 | [Hand Water Pump](https://polyfork.dev/asset/hand-water-pump-448037) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 626 | [GLB](https://polyfork.dev/cdn/hand-water-pump-448037.glb) · [module](https://polyfork.dev/cdn/hand-water-pump-448037.mjs) |
@@ -436,6 +438,7 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Kitchen Island](https://polyfork.dev/asset/kitchen-island-47f4c8) | [Open Plan](../kits/open-plan-b2ebd3.md) | 486 | [GLB](https://polyfork.dev/cdn/kitchen-island-47f4c8.glb) · [module](https://polyfork.dev/cdn/kitchen-island-47f4c8.mjs) |
 | [Kitchen Resin Floor Tile](https://polyfork.dev/asset/kitchen-resin-floor-tile-4c2150) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 220 | [GLB](https://polyfork.dev/cdn/kitchen-resin-floor-tile-4c2150.glb) · [module](https://polyfork.dev/cdn/kitchen-resin-floor-tile-4c2150.mjs) |
 | [Kitchen Sink](https://polyfork.dev/asset/kitchen-sink-7ea438) | [Open Plan](../kits/open-plan-b2ebd3.md) | 374 | [GLB](https://polyfork.dev/cdn/kitchen-sink-7ea438.glb) · [module](https://polyfork.dev/cdn/kitchen-sink-7ea438.mjs) |
+| [Kite Shield](https://polyfork.dev/asset/kite-shield-343e62) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 764 | [GLB](https://polyfork.dev/cdn/kite-shield-343e62.glb) · [module](https://polyfork.dev/cdn/kite-shield-343e62.mjs) |
 | [Kite Spool with Hilo Curado](https://polyfork.dev/asset/kite-spool-with-hilo-fe7e05) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 864 | [GLB](https://polyfork.dev/cdn/kite-spool-with-hilo-fe7e05.glb) · [module](https://polyfork.dev/cdn/kite-spool-with-hilo-fe7e05.mjs) |
 | [Knife](https://polyfork.dev/asset/knife-3d7947) |  | 922 | [GLB](https://polyfork.dev/cdn/knife-3d7947.glb) · [module](https://polyfork.dev/cdn/knife-3d7947.mjs) |
 | [Komodaru Sake Barrel](https://polyfork.dev/asset/komodaru-sake-barrel-c5199a) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 706 | [GLB](https://polyfork.dev/cdn/komodaru-sake-barrel-c5199a.glb) · [module](https://polyfork.dev/cdn/komodaru-sake-barrel-c5199a.mjs) |
@@ -503,7 +506,4 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Lineside Sign Post](https://polyfork.dev/asset/lineside-sign-post-7a08b9) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 308 | [GLB](https://polyfork.dev/cdn/lineside-sign-post-7a08b9.glb) · [module](https://polyfork.dev/cdn/lineside-sign-post-7a08b9.mjs) |
 | [Lineside Stile](https://polyfork.dev/asset/lineside-stile-632da4) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 531 | [GLB](https://polyfork.dev/cdn/lineside-stile-632da4.glb) · [module](https://polyfork.dev/cdn/lineside-stile-632da4.mjs) |
 | [Lineside Tree](https://polyfork.dev/asset/lineside-tree-97e02a) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 469 | [GLB](https://polyfork.dev/cdn/lineside-tree-97e02a.glb) · [module](https://polyfork.dev/cdn/lineside-tree-97e02a.mjs) |
-| [Liquid Handling Robot](https://polyfork.dev/asset/liquid-handling-robot-c42a98) | [Research Lab](../kits/research-lab-9b9b5d.md) | 584 | [GLB](https://polyfork.dev/cdn/liquid-handling-robot-c42a98.glb) · [module](https://polyfork.dev/cdn/liquid-handling-robot-c42a98.mjs) |
-| [List Row](https://polyfork.dev/asset/list-row-9a4186) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 454 | [GLB](https://polyfork.dev/cdn/list-row-9a4186.glb) · [module](https://polyfork.dev/cdn/list-row-9a4186.mjs) |
-| [Little Free Library Post](https://polyfork.dev/asset/little-free-library-post-755dd2) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 370 | [GLB](https://polyfork.dev/cdn/little-free-library-post-755dd2.glb) · [module](https://polyfork.dev/cdn/little-free-library-post-755dd2.mjs) |
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)

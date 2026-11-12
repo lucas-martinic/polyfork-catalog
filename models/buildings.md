@@ -1,6 +1,6 @@
 # Buildings
 
-430 free low-poly models. [All types](../README.md#browse-by-type)
+433 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -63,6 +63,7 @@
 | [Cashier Cage Module](https://polyfork.dev/asset/cashier-cage-module-c211d3) | [Hotel Casino kit](../kits/casino-3dd029.md) | 572 | [GLB](https://polyfork.dev/cdn/cashier-cage-module-c211d3.glb) · [module](https://polyfork.dev/cdn/cashier-cage-module-c211d3.mjs) |
 | [Cast Iron Loft](https://polyfork.dev/asset/cast-iron-loft-b04b5a) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 3,212 | [GLB](https://polyfork.dev/cdn/cast-iron-loft-b04b5a.glb) · [module](https://polyfork.dev/cdn/cast-iron-loft-b04b5a.mjs) |
 | [Castle Gatehouse](https://polyfork.dev/asset/castle-gatehouse-4ed5c6) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 4,036 | [GLB](https://polyfork.dev/cdn/castle-gatehouse-4ed5c6.glb) · [module](https://polyfork.dev/cdn/castle-gatehouse-4ed5c6.mjs) |
+| [Cave House Front](https://polyfork.dev/asset/cave-house-front-ed6b36) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 1,144 | [GLB](https://polyfork.dev/cdn/cave-house-front-ed6b36.glb) · [module](https://polyfork.dev/cdn/cave-house-front-ed6b36.mjs) |
 | [Cave Rock Wall](https://polyfork.dev/asset/ruined-lair-wall-176561) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 576 | [GLB](https://polyfork.dev/cdn/ruined-lair-wall-176561.glb) · [module](https://polyfork.dev/cdn/ruined-lair-wall-176561.mjs) |
 | [Ceiling Bay](https://polyfork.dev/asset/ceiling-bay-blank-bf7f96) | [University](../kits/university-959b66.md) | 1,268 | [GLB](https://polyfork.dev/cdn/ceiling-bay-blank-bf7f96.glb) · [module](https://polyfork.dev/cdn/ceiling-bay-blank-bf7f96.mjs) |
 | [Ceiling Bay Module](https://polyfork.dev/asset/ceiling-bay-module-9c0661) |  | 316 | [GLB](https://polyfork.dev/cdn/ceiling-bay-module-9c0661.glb) · [module](https://polyfork.dev/cdn/ceiling-bay-module-9c0661.mjs) |
@@ -220,6 +221,7 @@
 | [Manavai Garden Pit](https://polyfork.dev/asset/manavai-garden-pit-15cede) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 1,852 | [GLB](https://polyfork.dev/cdn/manavai-garden-pit-15cede.glb) · [module](https://polyfork.dev/cdn/manavai-garden-pit-15cede.mjs) |
 | [Market Drum Tower](https://polyfork.dev/asset/market-drum-tower-f133f3) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 2,236 | [GLB](https://polyfork.dev/cdn/market-drum-tower-f133f3.glb) · [module](https://polyfork.dev/cdn/market-drum-tower-f133f3.mjs) |
 | [Market Stall](https://polyfork.dev/asset/market-stall-94937d) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 592 | [GLB](https://polyfork.dev/cdn/market-stall-94937d.glb) · [module](https://polyfork.dev/cdn/market-stall-94937d.mjs) |
+| [Market Stall](https://polyfork.dev/asset/market-stall-9d0b29) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 1,561 | [GLB](https://polyfork.dev/cdn/market-stall-9d0b29.glb) · [module](https://polyfork.dev/cdn/market-stall-9d0b29.mjs) |
 | [Matchbox House](https://polyfork.dev/asset/matchbox-house-2d2689) | [Insect World kit](../kits/insect-world-e44b9f.md) | 1,548 | [GLB](https://polyfork.dev/cdn/matchbox-house-2d2689.glb) · [module](https://polyfork.dev/cdn/matchbox-house-2d2689.mjs) |
 | [Mesh Perimeter Fence Run](https://polyfork.dev/asset/mesh-perimeter-fence-run-ffce82) | [Stadium](../kits/stadium-5db167.md) | 1,101 | [GLB](https://polyfork.dev/cdn/mesh-perimeter-fence-run-ffce82.glb) · [module](https://polyfork.dev/cdn/mesh-perimeter-fence-run-ffce82.mjs) |
 | [Mesh Site Fence Run](https://polyfork.dev/asset/mesh-site-fence-run-a798a0) | [Construction Site](../kits/construction-site-9e40b0.md) | 1,522 | [GLB](https://polyfork.dev/cdn/mesh-site-fence-run-a798a0.glb) · [module](https://polyfork.dev/cdn/mesh-site-fence-run-a798a0.mjs) |
@@ -343,7 +345,7 @@
 | [Skate Hall Bay](https://polyfork.dev/asset/skate-hall-bay-197a78) | [Skatepark kit](../kits/skatepark-0922a9.md) | 1,178 | [GLB](https://polyfork.dev/cdn/skate-hall-bay-197a78.glb) · [module](https://polyfork.dev/cdn/skate-hall-bay-197a78.mjs) |
 | [Skate Shop](https://polyfork.dev/asset/skate-shop-bce146) | [Skatepark kit](../kits/skatepark-0922a9.md) | 2,415 | [GLB](https://polyfork.dev/cdn/skate-shop-bce146.glb) · [module](https://polyfork.dev/cdn/skate-shop-bce146.mjs) |
 | [Skatepark Clubhouse](https://polyfork.dev/asset/skatepark-clubhouse-c7b8b4) | [Skatepark kit](../kits/skatepark-0922a9.md) | 1,998 | [GLB](https://polyfork.dev/cdn/skatepark-clubhouse-c7b8b4.glb) · [module](https://polyfork.dev/cdn/skatepark-clubhouse-c7b8b4.mjs) |
-| [Ski Lift Base Station](https://polyfork.dev/asset/ski-lift-base-station-924491) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 1,926 | [GLB](https://polyfork.dev/cdn/ski-lift-base-station-924491.glb) · [module](https://polyfork.dev/cdn/ski-lift-base-station-924491.mjs) |
+| [Ski Lift Base Station](https://polyfork.dev/asset/ski-lift-base-station-924491) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 1,834 | [GLB](https://polyfork.dev/cdn/ski-lift-base-station-924491.glb) · [module](https://polyfork.dev/cdn/ski-lift-base-station-924491.mjs) |
 | [Sky Bridge Span](https://polyfork.dev/asset/sky-bridge-span-26fcde) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 572 | [GLB](https://polyfork.dev/cdn/sky-bridge-span-26fcde.glb) · [module](https://polyfork.dev/cdn/sky-bridge-span-26fcde.mjs) |
 | [Slab Apartment Block](https://polyfork.dev/asset/slab-apartment-block-1b02a2) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 1,216 | [GLB](https://polyfork.dev/cdn/slab-apartment-block-1b02a2.glb) · [module](https://polyfork.dev/cdn/slab-apartment-block-1b02a2.mjs) |
 | [Slipway Ramp](https://polyfork.dev/asset/slipway-ramp-1e595f) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 1,340 | [GLB](https://polyfork.dev/cdn/slipway-ramp-1e595f.glb) · [module](https://polyfork.dev/cdn/slipway-ramp-1e595f.mjs) |
@@ -352,6 +354,7 @@
 | [Smoking Shelter](https://polyfork.dev/asset/smoking-shelter-7e149f) | [Construction Site](../kits/construction-site-9e40b0.md) | 1,564 | [GLB](https://polyfork.dev/cdn/smoking-shelter-7e149f.glb) · [module](https://polyfork.dev/cdn/smoking-shelter-7e149f.mjs) |
 | [Smuggler Cave Mouth](https://polyfork.dev/asset/smuggler-cave-mouth-69a07e) | [Pirate Cove kit](../kits/pirate-cove-2ebea4.md) | 1,027 | [GLB](https://polyfork.dev/cdn/smuggler-cave-mouth-69a07e.glb) · [module](https://polyfork.dev/cdn/smuggler-cave-mouth-69a07e.mjs) |
 | [Solar Panel Wing](https://polyfork.dev/asset/solar-panel-wing-a66d89) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 1,268 | [GLB](https://polyfork.dev/cdn/solar-panel-wing-a66d89.glb) · [module](https://polyfork.dev/cdn/solar-panel-wing-a66d89.mjs) |
+| [Soldiers' Tent](https://polyfork.dev/asset/soldiers-tent-4bd5b9) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 848 | [GLB](https://polyfork.dev/cdn/soldiers-tent-4bd5b9.glb) · [module](https://polyfork.dev/cdn/soldiers-tent-4bd5b9.mjs) |
 | [Souvenir Stand](https://polyfork.dev/asset/souvenir-stand-4ab3f6) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 2,100 | [GLB](https://polyfork.dev/cdn/souvenir-stand-4ab3f6.glb) · [module](https://polyfork.dev/cdn/souvenir-stand-4ab3f6.mjs) |
 | [Spiral Stair Shaft](https://polyfork.dev/asset/spiral-stair-shaft-80de26) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 1,614 | [GLB](https://polyfork.dev/cdn/spiral-stair-shaft-80de26.glb) · [module](https://polyfork.dev/cdn/spiral-stair-shaft-80de26.mjs) |
 | [Splay-Leg Lookout Tower](https://polyfork.dev/asset/splay-leg-lookout-tower-6fae7e) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 1,910 | [GLB](https://polyfork.dev/cdn/splay-leg-lookout-tower-6fae7e.glb) · [module](https://polyfork.dev/cdn/splay-leg-lookout-tower-6fae7e.mjs) |

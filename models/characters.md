@@ -1,6 +1,6 @@
 # Characters
 
-198 free low-poly models. [All types](../README.md#browse-by-type)
+199 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -45,6 +45,7 @@
 | [Diner Waitress](https://polyfork.dev/asset/diner-waitress-60f6a1) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 4,365 | [GLB](https://polyfork.dev/cdn/diner-waitress-60f6a1.glb) · [module](https://polyfork.dev/cdn/diner-waitress-60f6a1.mjs) |
 | [Doctor](https://polyfork.dev/asset/doctor-d49de0) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 4,707 | [GLB](https://polyfork.dev/cdn/doctor-d49de0.glb) · [module](https://polyfork.dev/cdn/doctor-d49de0.mjs) |
 | [Doorman](https://polyfork.dev/asset/doorman-3f2e09) | [New York City Kit](../kits/nyc-city-kit-fbca88.md) | 3,399 | [GLB](https://polyfork.dev/cdn/doorman-3f2e09.glb) · [module](https://polyfork.dev/cdn/doorman-3f2e09.mjs) |
+| [Dragon Keeper](https://polyfork.dev/asset/dragon-keeper-c3980f) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 4,983 | [GLB](https://polyfork.dev/cdn/dragon-keeper-c3980f.glb) · [module](https://polyfork.dev/cdn/dragon-keeper-c3980f.mjs) |
 | [Dragon Rider Apprentice](https://polyfork.dev/asset/dragon-rider-apprentice-dee2cd) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 4,827 | [GLB](https://polyfork.dev/cdn/dragon-rider-apprentice-dee2cd.glb) · [module](https://polyfork.dev/cdn/dragon-rider-apprentice-dee2cd.mjs) |
 | [Dragon Slayer](https://polyfork.dev/asset/dragon-slayer-91ab39) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 4,991 | [GLB](https://polyfork.dev/cdn/dragon-slayer-91ab39.glb) · [module](https://polyfork.dev/cdn/dragon-slayer-91ab39.mjs) |
 | [Egg Poacher](https://polyfork.dev/asset/egg-poacher-428c56) | [Dragons Lair](../kits/dragons-lair-dark-dragon-782570.md) | 4,529 | [GLB](https://polyfork.dev/cdn/egg-poacher-428c56.glb) · [module](https://polyfork.dev/cdn/egg-poacher-428c56.mjs) |
