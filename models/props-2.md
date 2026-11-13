@@ -1,6 +1,6 @@
 # Props
 
-2,093 free low-poly models. [All types](../README.md#browse-by-type)
+2,096 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -9,6 +9,7 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Cut Amethyst](https://polyfork.dev/asset/cut-amethyst-494337) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 98 | [GLB](https://polyfork.dev/cdn/cut-amethyst-494337.glb) · [module](https://polyfork.dev/cdn/cut-amethyst-494337.mjs) |
 | [Cut Diamond](https://polyfork.dev/asset/cut-diamond-1fd38b) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 96 | [GLB](https://polyfork.dev/cdn/cut-diamond-1fd38b.glb) · [module](https://polyfork.dev/cdn/cut-diamond-1fd38b.mjs) |
 | [Cut Emerald](https://polyfork.dev/asset/cut-emerald-74d180) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 112 | [GLB](https://polyfork.dev/cdn/cut-emerald-74d180.glb) · [module](https://polyfork.dev/cdn/cut-emerald-74d180.mjs) |
+| [Cut Fir in a Bucket](https://polyfork.dev/asset/cut-fir-in-a-21d18a) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 744 | [GLB](https://polyfork.dev/cdn/cut-fir-in-a-21d18a.glb) · [module](https://polyfork.dev/cdn/cut-fir-in-a-21d18a.mjs) |
 | [Cut Ruby](https://polyfork.dev/asset/cut-ruby-3ded3a) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 112 | [GLB](https://polyfork.dev/cdn/cut-ruby-3ded3a.glb) · [module](https://polyfork.dev/cdn/cut-ruby-3ded3a.mjs) |
 | [Cut Sapphire](https://polyfork.dev/asset/cut-sapphire-04ba83) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 126 | [GLB](https://polyfork.dev/cdn/cut-sapphire-04ba83.glb) · [module](https://polyfork.dev/cdn/cut-sapphire-04ba83.mjs) |
 | [Cut-open drum planter](https://polyfork.dev/asset/cut-open-drum-planter-7c42e7) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 678 | [GLB](https://polyfork.dev/cdn/cut-open-drum-planter-7c42e7.glb) · [module](https://polyfork.dev/cdn/cut-open-drum-planter-7c42e7.mjs) |
@@ -505,5 +506,4 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Lineside Retaining Wall Run](https://polyfork.dev/asset/lineside-retaining-wall-run-581cbd) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 657 | [GLB](https://polyfork.dev/cdn/lineside-retaining-wall-run-581cbd.glb) · [module](https://polyfork.dev/cdn/lineside-retaining-wall-run-581cbd.mjs) |
 | [Lineside Sign Post](https://polyfork.dev/asset/lineside-sign-post-7a08b9) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 308 | [GLB](https://polyfork.dev/cdn/lineside-sign-post-7a08b9.glb) · [module](https://polyfork.dev/cdn/lineside-sign-post-7a08b9.mjs) |
 | [Lineside Stile](https://polyfork.dev/asset/lineside-stile-632da4) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 531 | [GLB](https://polyfork.dev/cdn/lineside-stile-632da4.glb) · [module](https://polyfork.dev/cdn/lineside-stile-632da4.mjs) |
-| [Lineside Tree](https://polyfork.dev/asset/lineside-tree-97e02a) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 469 | [GLB](https://polyfork.dev/cdn/lineside-tree-97e02a.glb) · [module](https://polyfork.dev/cdn/lineside-tree-97e02a.mjs) |
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)

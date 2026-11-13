@@ -1,6 +1,6 @@
 # Props
 
-2,093 free low-poly models. [All types](../README.md#browse-by-type)
+2,096 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 

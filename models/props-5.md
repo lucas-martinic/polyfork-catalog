@@ -1,13 +1,16 @@
 # Props
 
-2,093 free low-poly models. [All types](../README.md#browse-by-type)
+2,096 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Water Tower on a Trestle](https://polyfork.dev/asset/water-tower-on-a-dbc730) | [Frontier Town](../kits/frontier-town-a0085b.md) | 758 | [GLB](https://polyfork.dev/cdn/water-tower-on-a-dbc730.glb) · [module](https://polyfork.dev/cdn/water-tower-on-a-dbc730.mjs) |
+| [Water Trough](https://polyfork.dev/asset/water-trough-318ee1) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 670 | [GLB](https://polyfork.dev/cdn/water-trough-318ee1.glb) · [module](https://polyfork.dev/cdn/water-trough-318ee1.mjs) |
 | [Water Trough](https://polyfork.dev/asset/water-trough-df3ced) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 376 | [GLB](https://polyfork.dev/cdn/water-trough-df3ced.glb) · [module](https://polyfork.dev/cdn/water-trough-df3ced.mjs) |
 | [Watering Can](https://polyfork.dev/asset/watering-can-b22758) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 492 | [GLB](https://polyfork.dev/cdn/watering-can-b22758.glb) · [module](https://polyfork.dev/cdn/watering-can-b22758.mjs) |
+| [Waterskin](https://polyfork.dev/asset/waterskin-e2a8a2) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 710 | [GLB](https://polyfork.dev/cdn/waterskin-e2a8a2.glb) · [module](https://polyfork.dev/cdn/waterskin-e2a8a2.mjs) |
 | [Wattle Panel Weaving Jig](https://polyfork.dev/asset/wattle-panel-weaving-jig-d1aa1c) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 754 | [GLB](https://polyfork.dev/cdn/wattle-panel-weaving-jig-d1aa1c.glb) · [module](https://polyfork.dev/cdn/wattle-panel-weaving-jig-d1aa1c.mjs) |
 | [Wavemaker Powerhead](https://polyfork.dev/asset/wavemaker-powerhead-fe0da2) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 674 | [GLB](https://polyfork.dev/cdn/wavemaker-powerhead-fe0da2.glb) · [module](https://polyfork.dev/cdn/wavemaker-powerhead-fe0da2.mjs) |
 | [Wayfinder Post](https://polyfork.dev/asset/wayfinder-post-961fcd) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 668 | [GLB](https://polyfork.dev/cdn/wayfinder-post-961fcd.glb) · [module](https://polyfork.dev/cdn/wayfinder-post-961fcd.mjs) |

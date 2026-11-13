@@ -1,6 +1,6 @@
 # Animals
 
-211 free low-poly models. [All types](../README.md#browse-by-type)
+212 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -14,6 +14,7 @@
 | [Arthropleura Giant Millipede](https://polyfork.dev/asset/arthropleura-giant-millipede-7ade0b) | [Prehistoric Valley](../kits/prehistoric-valley-8638dc.md) | 3,454 | [GLB](https://polyfork.dev/cdn/arthropleura-giant-millipede-7ade0b.glb) · [module](https://polyfork.dev/cdn/arthropleura-giant-millipede-7ade0b.mjs) |
 | [Audience gentleman](https://polyfork.dev/asset/audience-gentleman-base) |  | 4,908 | [GLB](https://polyfork.dev/cdn/audience-gentleman-base.glb) · [module](https://polyfork.dev/cdn/audience-gentleman-base.mjs) |
 | [Banggai Cardinalfish](https://polyfork.dev/asset/banggai-cardinalfish-21f6fc) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 3,760 | [GLB](https://polyfork.dev/cdn/banggai-cardinalfish-21f6fc.glb) · [module](https://polyfork.dev/cdn/banggai-cardinalfish-21f6fc.mjs) |
+| [Barded War Horse](https://polyfork.dev/asset/barded-war-horse-6e921e) | [Three Kingdoms Settlements](../kits/three-kingdoms-settlements-a-1e817b.md) | 3,990 | [GLB](https://polyfork.dev/cdn/barded-war-horse-6e921e.glb) · [module](https://polyfork.dev/cdn/barded-war-horse-6e921e.mjs) |
 | [Barnacled Ghost Captain](https://polyfork.dev/asset/undead-pirate-608c9b) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,993 | [GLB](https://polyfork.dev/cdn/undead-pirate-608c9b.glb) · [module](https://polyfork.dev/cdn/undead-pirate-608c9b.mjs) |
 | [Barracuda](https://polyfork.dev/asset/barracuda-base) |  | 2,918 | [GLB](https://polyfork.dev/cdn/barracuda-base.glb) · [module](https://polyfork.dev/cdn/barracuda-base.mjs) |
 | [Bear](https://polyfork.dev/asset/bear-base) |  | 2,542 | [GLB](https://polyfork.dev/cdn/bear-base.glb) · [module](https://polyfork.dev/cdn/bear-base.mjs) |

@@ -1,11 +1,13 @@
 # Props
 
-2,093 free low-poly models. [All types](../README.md#browse-by-type)
+2,096 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Saguaro Cactus](https://polyfork.dev/asset/saguaro-cactus-6b27eb) | [Frontier Town](../kits/frontier-town-a0085b.md) | 525 | [GLB](https://polyfork.dev/cdn/saguaro-cactus-6b27eb.glb) · [module](https://polyfork.dev/cdn/saguaro-cactus-6b27eb.mjs) |
+| [Saguaro Cactus](https://polyfork.dev/asset/saguaro-cactus-8b588d) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 720 | [GLB](https://polyfork.dev/cdn/saguaro-cactus-8b588d.glb) · [module](https://polyfork.dev/cdn/saguaro-cactus-8b588d.mjs) |
 | [Saloon Upright Piano](https://polyfork.dev/asset/saloon-upright-piano-4b9c64) | [Frontier Town](../kits/frontier-town-a0085b.md) | 662 | [GLB](https://polyfork.dev/cdn/saloon-upright-piano-4b9c64.glb) · [module](https://polyfork.dev/cdn/saloon-upright-piano-4b9c64.mjs) |
 | [Salvage crate](https://polyfork.dev/asset/salvage-crate-3a7e1d) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 694 | [GLB](https://polyfork.dev/cdn/salvage-crate-3a7e1d.glb) · [module](https://polyfork.dev/cdn/salvage-crate-3a7e1d.mjs) |
 | [Salvage fence gate](https://polyfork.dev/asset/salvage-fence-gate-42350a) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 720 | [GLB](https://polyfork.dev/cdn/salvage-fence-gate-42350a.glb) · [module](https://polyfork.dev/cdn/salvage-fence-gate-42350a.mjs) |
@@ -504,6 +506,4 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 | [Water Carafe](https://polyfork.dev/asset/water-carafe-6f1774) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 264 | [GLB](https://polyfork.dev/cdn/water-carafe-6f1774.glb) · [module](https://polyfork.dev/cdn/water-carafe-6f1774.mjs) |
 | [Water Crane](https://polyfork.dev/asset/water-crane-6ab467) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 973 | [GLB](https://polyfork.dev/cdn/water-crane-6ab467.glb) · [module](https://polyfork.dev/cdn/water-crane-6ab467.mjs) |
 | [Water Fountain (Bottle Filler)](https://polyfork.dev/asset/water-fountain-bottle-filler-919fbb) | [University](../kits/university-959b66.md) | 560 | [GLB](https://polyfork.dev/cdn/water-fountain-bottle-filler-919fbb.glb) · [module](https://polyfork.dev/cdn/water-fountain-bottle-filler-919fbb.mjs) |
-| [Water Tower on a Trestle](https://polyfork.dev/asset/water-tower-on-a-dbc730) | [Frontier Town](../kits/frontier-town-a0085b.md) | 758 | [GLB](https://polyfork.dev/cdn/water-tower-on-a-dbc730.glb) · [module](https://polyfork.dev/cdn/water-tower-on-a-dbc730.mjs) |
-| [Water Trough](https://polyfork.dev/asset/water-trough-318ee1) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 670 | [GLB](https://polyfork.dev/cdn/water-trough-318ee1.glb) · [module](https://polyfork.dev/cdn/water-trough-318ee1.mjs) |
 Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
