@@ -1,11 +1,18 @@
 # Props
 
-2,096 free low-poly models. [All types](../README.md#browse-by-type)
+2,105 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Sack of Toys](https://polyfork.dev/asset/sack-of-toys-c53e9e) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 849 | [GLB](https://polyfork.dev/cdn/sack-of-toys-c53e9e.glb) · [module](https://polyfork.dev/cdn/sack-of-toys-c53e9e.mjs) |
+| [Saddle on a Rack](https://polyfork.dev/asset/saddle-on-a-rack-f034cd) | [Frontier Town](../kits/frontier-town-a0085b.md) | 634 | [GLB](https://polyfork.dev/cdn/saddle-on-a-rack-f034cd.glb) · [module](https://polyfork.dev/cdn/saddle-on-a-rack-f034cd.mjs) |
+| [Saddle Quern Food Mill](https://polyfork.dev/asset/saddle-quern-food-mill-8e3657) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 660 | [GLB](https://polyfork.dev/cdn/saddle-quern-food-mill-8e3657.glb) · [module](https://polyfork.dev/cdn/saddle-quern-food-mill-8e3657.mjs) |
+| [Safety Net Run](https://polyfork.dev/asset/safety-net-run-ecf381) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 714 | [GLB](https://polyfork.dev/cdn/safety-net-run-ecf381.glb) · [module](https://polyfork.dev/cdn/safety-net-run-ecf381.mjs) |
+| [Safety Railing Run](https://polyfork.dev/asset/safety-railing-run-ba0603) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 420 | [GLB](https://polyfork.dev/cdn/safety-railing-run-ba0603.glb) · [module](https://polyfork.dev/cdn/safety-railing-run-ba0603.mjs) |
+| [Safety Shower and Eyewash](https://polyfork.dev/asset/safety-shower-and-eyewash-1f5f20) | [Research Lab](../kits/research-lab-9b9b5d.md) | 676 | [GLB](https://polyfork.dev/cdn/safety-shower-and-eyewash-1f5f20.glb) · [module](https://polyfork.dev/cdn/safety-shower-and-eyewash-1f5f20.mjs) |
+| [Sagebrush](https://polyfork.dev/asset/sagebrush-700b03) | [Frontier Town](../kits/frontier-town-a0085b.md) | 684 | [GLB](https://polyfork.dev/cdn/sagebrush-700b03.glb) · [module](https://polyfork.dev/cdn/sagebrush-700b03.mjs) |
 | [Saguaro Cactus](https://polyfork.dev/asset/saguaro-cactus-6b27eb) | [Frontier Town](../kits/frontier-town-a0085b.md) | 525 | [GLB](https://polyfork.dev/cdn/saguaro-cactus-6b27eb.glb) · [module](https://polyfork.dev/cdn/saguaro-cactus-6b27eb.mjs) |
 | [Saguaro Cactus](https://polyfork.dev/asset/saguaro-cactus-8b588d) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 720 | [GLB](https://polyfork.dev/cdn/saguaro-cactus-8b588d.glb) · [module](https://polyfork.dev/cdn/saguaro-cactus-8b588d.mjs) |
 | [Saloon Upright Piano](https://polyfork.dev/asset/saloon-upright-piano-4b9c64) | [Frontier Town](../kits/frontier-town-a0085b.md) | 662 | [GLB](https://polyfork.dev/cdn/saloon-upright-piano-4b9c64.glb) · [module](https://polyfork.dev/cdn/saloon-upright-piano-4b9c64.mjs) |
@@ -154,6 +161,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 | [Sofa](https://polyfork.dev/asset/sofa-9c0e7e) | [Open Plan](../kits/open-plan-b2ebd3.md) | 480 | [GLB](https://polyfork.dev/cdn/sofa-9c0e7e.glb) · [module](https://polyfork.dev/cdn/sofa-9c0e7e.mjs) |
 | [Soft Coral Tree](https://polyfork.dev/asset/soft-coral-tree-450af0) | [Coral Reef](../kits/coral-reef-a7128a.md) | 741 | [GLB](https://polyfork.dev/cdn/soft-coral-tree-450af0.glb) · [module](https://polyfork.dev/cdn/soft-coral-tree-450af0.mjs) |
 | [Solar Array Rack](https://polyfork.dev/asset/solar-array-rack-789c93) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 510 | [GLB](https://polyfork.dev/cdn/solar-array-rack-789c93.glb) · [module](https://polyfork.dev/cdn/solar-array-rack-789c93.mjs) |
+| [Solar Water Heater](https://polyfork.dev/asset/solar-water-heater-db1039) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 704 | [GLB](https://polyfork.dev/cdn/solar-water-heater-db1039.glb) · [module](https://polyfork.dev/cdn/solar-water-heater-db1039.mjs) |
 | [Sopaipilla Cart](https://polyfork.dev/asset/sopaipilla-cart-712632) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 898 | [GLB](https://polyfork.dev/cdn/sopaipilla-cart-712632.glb) · [module](https://polyfork.dev/cdn/sopaipilla-cart-712632.mjs) |
 | [Space Mine](https://polyfork.dev/asset/space-mine-3a1654) | [Spaceship Wars Kit](../kits/spaceship-wars-kit-234642.md) | 480 | [GLB](https://polyfork.dev/cdn/space-mine-3a1654.glb) · [module](https://polyfork.dev/cdn/space-mine-3a1654.mjs) |
 | [Spare Engine on Transport Stand](https://polyfork.dev/asset/spare-engine-on-transport-db14e5) | [Airport](../kits/airport-43b137.md) | 966 | [GLB](https://polyfork.dev/cdn/spare-engine-on-transport-db14e5.glb) · [module](https://polyfork.dev/cdn/spare-engine-on-transport-db14e5.mjs) |
@@ -498,12 +506,4 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 | [Washing line](https://polyfork.dev/asset/washing-line-06b44e) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 776 | [GLB](https://polyfork.dev/cdn/washing-line-06b44e.glb) · [module](https://polyfork.dev/cdn/washing-line-06b44e.mjs) |
 | [Waste Bin](https://polyfork.dev/asset/waste-bin-sharps-bca988) | [Research Lab](../kits/research-lab-9b9b5d.md) | 556 | [GLB](https://polyfork.dev/cdn/waste-bin-sharps-bca988.glb) · [module](https://polyfork.dev/cdn/waste-bin-sharps-bca988.mjs) |
 | [Waste Sorting Station](https://polyfork.dev/asset/waste-sorting-station-adeefd) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 362 | [GLB](https://polyfork.dev/cdn/waste-sorting-station-adeefd.glb) · [module](https://polyfork.dev/cdn/waste-sorting-station-adeefd.mjs) |
-| [Wastepaper Bin](https://polyfork.dev/asset/wastepaper-bin-8f76b5) | [Office](../kits/office-794453.md) | 336 | [GLB](https://polyfork.dev/cdn/wastepaper-bin-8f76b5.glb) · [module](https://polyfork.dev/cdn/wastepaper-bin-8f76b5.mjs) |
-| [Water Blob](https://polyfork.dev/asset/water-blob-e2cdf2) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 208 | [GLB](https://polyfork.dev/cdn/water-blob-e2cdf2.glb) · [module](https://polyfork.dev/cdn/water-blob-e2cdf2.mjs) |
-| [Water Blob](https://polyfork.dev/asset/water-blob-f266b8) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 320 | [GLB](https://polyfork.dev/cdn/water-blob-f266b8.glb) · [module](https://polyfork.dev/cdn/water-blob-f266b8.mjs) |
-| [Water Bottle Crate](https://polyfork.dev/asset/water-bottle-crate-78c8db) | [Stadium](../kits/stadium-5db167.md) | 608 | [GLB](https://polyfork.dev/cdn/water-bottle-crate-78c8db.glb) · [module](https://polyfork.dev/cdn/water-bottle-crate-78c8db.mjs) |
-| [Water Bowser](https://polyfork.dev/asset/water-bowser-f6768c) | [Construction Site](../kits/construction-site-9e40b0.md) | 941 | [GLB](https://polyfork.dev/cdn/water-bowser-f6768c.glb) · [module](https://polyfork.dev/cdn/water-bowser-f6768c.mjs) |
-| [Water Carafe](https://polyfork.dev/asset/water-carafe-6f1774) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 264 | [GLB](https://polyfork.dev/cdn/water-carafe-6f1774.glb) · [module](https://polyfork.dev/cdn/water-carafe-6f1774.mjs) |
-| [Water Crane](https://polyfork.dev/asset/water-crane-6ab467) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 973 | [GLB](https://polyfork.dev/cdn/water-crane-6ab467.glb) · [module](https://polyfork.dev/cdn/water-crane-6ab467.mjs) |
-| [Water Fountain (Bottle Filler)](https://polyfork.dev/asset/water-fountain-bottle-filler-919fbb) | [University](../kits/university-959b66.md) | 560 | [GLB](https://polyfork.dev/cdn/water-fountain-bottle-filler-919fbb.glb) · [module](https://polyfork.dev/cdn/water-fountain-bottle-filler-919fbb.mjs) |
 Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)

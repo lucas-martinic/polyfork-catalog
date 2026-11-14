@@ -1,6 +1,6 @@
 # Buildings
 
-433 free low-poly models. [All types](../README.md#browse-by-type)
+434 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -392,6 +392,7 @@
 | [Thatched Cottage](https://polyfork.dev/asset/thatched-cottage-0e63f5) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 1,764 | [GLB](https://polyfork.dev/cdn/thatched-cottage-0e63f5.glb) · [module](https://polyfork.dev/cdn/thatched-cottage-0e63f5.mjs) |
 | [Three-Storey Shophouse](https://polyfork.dev/asset/three-storey-shophouse-2f6378) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 1,146 | [GLB](https://polyfork.dev/cdn/three-storey-shophouse-2f6378.glb) · [module](https://polyfork.dev/cdn/three-storey-shophouse-2f6378.mjs) |
 | [Ticket Booth](https://polyfork.dev/asset/ticket-booth-d127f8) | [Stadium](../kits/stadium-5db167.md) | 1,132 | [GLB](https://polyfork.dev/cdn/ticket-booth-d127f8.glb) · [module](https://polyfork.dev/cdn/ticket-booth-d127f8.mjs) |
+| [Tiered Bell Tower](https://polyfork.dev/asset/tiered-bell-tower-e1b706) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 1,512 | [GLB](https://polyfork.dev/cdn/tiered-bell-tower-e1b706.glb) · [module](https://polyfork.dev/cdn/tiered-bell-tower-e1b706.mjs) |
 | [Tiered Pagoda](https://polyfork.dev/asset/tiered-pagoda-f4ade0) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 1,424 | [GLB](https://polyfork.dev/cdn/tiered-pagoda-f4ade0.glb) · [module](https://polyfork.dev/cdn/tiered-pagoda-f4ade0.mjs) |
 | [Timber Barn](https://polyfork.dev/asset/timber-barn-90b3ce) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 1,382 | [GLB](https://polyfork.dev/cdn/timber-barn-90b3ce.glb) · [module](https://polyfork.dev/cdn/timber-barn-90b3ce.mjs) |
 | [Timber Dugout Shelter](https://polyfork.dev/asset/timber-dugout-shelter-bbb56d) |  | 1,418 | [GLB](https://polyfork.dev/cdn/timber-dugout-shelter-bbb56d.glb) · [module](https://polyfork.dev/cdn/timber-dugout-shelter-bbb56d.mjs) |

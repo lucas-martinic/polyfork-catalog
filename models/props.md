@@ -1,6 +1,6 @@
 # Props
 
-2,096 free low-poly models. [All types](../README.md#browse-by-type)
+2,105 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -83,6 +83,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Asphalt Pump Track Section](https://polyfork.dev/asset/asphalt-pump-track-section-e837b1) | [Skatepark kit](../kits/skatepark-0922a9.md) | 364 | [GLB](https://polyfork.dev/cdn/asphalt-pump-track-section-e837b1.glb) · [module](https://polyfork.dev/cdn/asphalt-pump-track-section-e837b1.mjs) |
 | [Asphalt Road Tile](https://polyfork.dev/asset/asphalt-road-tile-f6593c) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 20 | [GLB](https://polyfork.dev/cdn/asphalt-road-tile-f6593c.glb) · [module](https://polyfork.dev/cdn/asphalt-road-tile-f6593c.mjs) |
 | [Athletics Hurdle](https://polyfork.dev/asset/athletics-hurdle-164f6f) | [Stadium](../kits/stadium-5db167.md) | 468 | [GLB](https://polyfork.dev/cdn/athletics-hurdle-164f6f.glb) · [module](https://polyfork.dev/cdn/athletics-hurdle-164f6f.mjs) |
+| [ATM Terminal](https://polyfork.dev/asset/atm-terminal-3b84f5) |  | 726 | [GLB](https://polyfork.dev/cdn/atm-terminal-3b84f5.glb) · [module](https://polyfork.dev/cdn/atm-terminal-3b84f5.mjs) |
 | [Autoclave](https://polyfork.dev/asset/autoclave-d34434) | [Research Lab](../kits/research-lab-9b9b5d.md) | 658 | [GLB](https://polyfork.dev/cdn/autoclave-d34434.glb) · [module](https://polyfork.dev/cdn/autoclave-d34434.mjs) |
 | [Automatic Card Shuffler](https://polyfork.dev/asset/automatic-card-shuffler-441610) | [Hotel Casino kit](../kits/casino-3dd029.md) | 471 | [GLB](https://polyfork.dev/cdn/automatic-card-shuffler-441610.glb) · [module](https://polyfork.dev/cdn/automatic-card-shuffler-441610.mjs) |
 | [Avalanche Barrier Run](https://polyfork.dev/asset/avalanche-barrier-run-02a615) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 792 | [GLB](https://polyfork.dev/cdn/avalanche-barrier-run-02a615.glb) · [module](https://polyfork.dev/cdn/avalanche-barrier-run-02a615.mjs) |
@@ -343,6 +344,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Checkbox](https://polyfork.dev/asset/checkbox-094277) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 928 | [GLB](https://polyfork.dev/cdn/checkbox-094277.glb) · [module](https://polyfork.dev/cdn/checkbox-094277.mjs) |
 | [Checkered-flag](https://polyfork.dev/asset/checkered-flag-81784a) | [Retro Cars Kit](../kits/racing-cars-kit-660d53.md) | 416 | [GLB](https://polyfork.dev/cdn/checkered-flag-81784a.glb) · [module](https://polyfork.dev/cdn/checkered-flag-81784a.mjs) |
 | [Checkpoint Barrier Pole](https://polyfork.dev/asset/checkpoint-barrier-pole-59c197) |  | 430 | [GLB](https://polyfork.dev/cdn/checkpoint-barrier-pole-59c197.glb) · [module](https://polyfork.dev/cdn/checkpoint-barrier-pole-59c197.mjs) |
+| [Cheese Wedge](https://polyfork.dev/asset/cheese-wedge-a5c99b) |  | 608 | [GLB](https://polyfork.dev/cdn/cheese-wedge-a5c99b.glb) · [module](https://polyfork.dev/cdn/cheese-wedge-a5c99b.mjs) |
 | [Chemical Shelving Rack](https://polyfork.dev/asset/chemical-shelving-rack-3a188c) | [Research Lab](../kits/research-lab-9b9b5d.md) | 608 | [GLB](https://polyfork.dev/cdn/chemical-shelving-rack-3a188c.glb) · [module](https://polyfork.dev/cdn/chemical-shelving-rack-3a188c.mjs) |
 | [Chemical Spill Kit](https://polyfork.dev/asset/chemical-spill-kit-3c71d9) | [Research Lab](../kits/research-lab-9b9b5d.md) | 617 | [GLB](https://polyfork.dev/cdn/chemical-spill-kit-3c71d9.glb) · [module](https://polyfork.dev/cdn/chemical-spill-kit-3c71d9.mjs) |
 | [Cherry Blossom Tree](https://polyfork.dev/asset/cherry-blossom-tree-3f7ab7) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 619 | [GLB](https://polyfork.dev/cdn/cherry-blossom-tree-3f7ab7.glb) · [module](https://polyfork.dev/cdn/cherry-blossom-tree-3f7ab7.mjs) |
@@ -504,6 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Curbside Mailbox](https://polyfork.dev/asset/curbside-mailbox-0e0736) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 374 | [GLB](https://polyfork.dev/cdn/curbside-mailbox-0e0736.glb) · [module](https://polyfork.dev/cdn/curbside-mailbox-0e0736.mjs) |
 | [Curtain Panel](https://polyfork.dev/asset/curtain-panel-ee2ed9) | [Open Plan](../kits/open-plan-b2ebd3.md) | 620 | [GLB](https://polyfork.dev/cdn/curtain-panel-ee2ed9.glb) · [module](https://polyfork.dev/cdn/curtain-panel-ee2ed9.mjs) |
 | [Curved Panel](https://polyfork.dev/asset/curved-panel-97d28a) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 524 | [GLB](https://polyfork.dev/cdn/curved-panel-97d28a.glb) · [module](https://polyfork.dev/cdn/curved-panel-97d28a.mjs) |
-| [Curved Track](https://polyfork.dev/asset/curved-track-819ec6) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 624 | [GLB](https://polyfork.dev/cdn/curved-track-819ec6.glb) · [module](https://polyfork.dev/cdn/curved-track-819ec6.mjs) |
-| [Cushion](https://polyfork.dev/asset/cushion-121479) | [Open Plan](../kits/open-plan-b2ebd3.md) | 512 | [GLB](https://polyfork.dev/cdn/cushion-121479.glb) · [module](https://polyfork.dev/cdn/cushion-121479.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)

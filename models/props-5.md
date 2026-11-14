@@ -1,11 +1,19 @@
 # Props
 
-2,096 free low-poly models. [All types](../README.md#browse-by-type)
+2,105 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Wastepaper Bin](https://polyfork.dev/asset/wastepaper-bin-8f76b5) | [Office](../kits/office-794453.md) | 336 | [GLB](https://polyfork.dev/cdn/wastepaper-bin-8f76b5.glb) · [module](https://polyfork.dev/cdn/wastepaper-bin-8f76b5.mjs) |
+| [Water Blob](https://polyfork.dev/asset/water-blob-e2cdf2) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 208 | [GLB](https://polyfork.dev/cdn/water-blob-e2cdf2.glb) · [module](https://polyfork.dev/cdn/water-blob-e2cdf2.mjs) |
+| [Water Blob](https://polyfork.dev/asset/water-blob-f266b8) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 320 | [GLB](https://polyfork.dev/cdn/water-blob-f266b8.glb) · [module](https://polyfork.dev/cdn/water-blob-f266b8.mjs) |
+| [Water Bottle Crate](https://polyfork.dev/asset/water-bottle-crate-78c8db) | [Stadium](../kits/stadium-5db167.md) | 608 | [GLB](https://polyfork.dev/cdn/water-bottle-crate-78c8db.glb) · [module](https://polyfork.dev/cdn/water-bottle-crate-78c8db.mjs) |
+| [Water Bowser](https://polyfork.dev/asset/water-bowser-f6768c) | [Construction Site](../kits/construction-site-9e40b0.md) | 941 | [GLB](https://polyfork.dev/cdn/water-bowser-f6768c.glb) · [module](https://polyfork.dev/cdn/water-bowser-f6768c.mjs) |
+| [Water Carafe](https://polyfork.dev/asset/water-carafe-6f1774) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 264 | [GLB](https://polyfork.dev/cdn/water-carafe-6f1774.glb) · [module](https://polyfork.dev/cdn/water-carafe-6f1774.mjs) |
+| [Water Crane](https://polyfork.dev/asset/water-crane-6ab467) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 973 | [GLB](https://polyfork.dev/cdn/water-crane-6ab467.glb) · [module](https://polyfork.dev/cdn/water-crane-6ab467.mjs) |
+| [Water Fountain (Bottle Filler)](https://polyfork.dev/asset/water-fountain-bottle-filler-919fbb) | [University](../kits/university-959b66.md) | 560 | [GLB](https://polyfork.dev/cdn/water-fountain-bottle-filler-919fbb.glb) · [module](https://polyfork.dev/cdn/water-fountain-bottle-filler-919fbb.mjs) |
 | [Water Tower on a Trestle](https://polyfork.dev/asset/water-tower-on-a-dbc730) | [Frontier Town](../kits/frontier-town-a0085b.md) | 758 | [GLB](https://polyfork.dev/cdn/water-tower-on-a-dbc730.glb) · [module](https://polyfork.dev/cdn/water-tower-on-a-dbc730.mjs) |
 | [Water Trough](https://polyfork.dev/asset/water-trough-318ee1) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 670 | [GLB](https://polyfork.dev/cdn/water-trough-318ee1.glb) · [module](https://polyfork.dev/cdn/water-trough-318ee1.mjs) |
 | [Water Trough](https://polyfork.dev/asset/water-trough-df3ced) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 376 | [GLB](https://polyfork.dev/cdn/water-trough-df3ced.glb) · [module](https://polyfork.dev/cdn/water-trough-df3ced.mjs) |
@@ -102,4 +110,5 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 | [Yumi Bow And Quiver](https://polyfork.dev/asset/yumi-bow-and-quiver-e30b4a) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 632 | [GLB](https://polyfork.dev/cdn/yumi-bow-and-quiver-e30b4a.glb) · [module](https://polyfork.dev/cdn/yumi-bow-and-quiver-e30b4a.mjs) |
 | [Zen Sand Garden](https://polyfork.dev/asset/zen-sand-garden-79a828) |  | 2,180 | [GLB](https://polyfork.dev/cdn/zen-sand-garden-79a828.glb) · [module](https://polyfork.dev/cdn/zen-sand-garden-79a828.mjs) |
 | [Zoanthid Mat](https://polyfork.dev/asset/zoanthid-mat-54e301) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 700 | [GLB](https://polyfork.dev/cdn/zoanthid-mat-54e301.glb) · [module](https://polyfork.dev/cdn/zoanthid-mat-54e301.mjs) |
+| [Zucchini](https://polyfork.dev/asset/zucchini-6b2fbf) |  | 504 | [GLB](https://polyfork.dev/cdn/zucchini-6b2fbf.glb) · [module](https://polyfork.dev/cdn/zucchini-6b2fbf.mjs) |
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**

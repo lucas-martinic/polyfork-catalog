@@ -1,6 +1,6 @@
 # Animals
 
-212 free low-poly models. [All types](../README.md#browse-by-type)
+219 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -27,6 +27,7 @@
 | [Blue-Leg Hermit Crab](https://polyfork.dev/asset/blue-leg-hermit-crab-ce7b41) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 2,984 | [GLB](https://polyfork.dev/cdn/blue-leg-hermit-crab-ce7b41.glb) · [module](https://polyfork.dev/cdn/blue-leg-hermit-crab-ce7b41.mjs) |
 | [Brachiosaurus](https://polyfork.dev/asset/brachiosaurus-base) |  | 2,910 | [GLB](https://polyfork.dev/cdn/brachiosaurus-base.glb) · [module](https://polyfork.dev/cdn/brachiosaurus-base.mjs) |
 | [Brass-Helmed Drowned Diver](https://polyfork.dev/asset/sunken-diver-base) |  | 4,913 | [GLB](https://polyfork.dev/cdn/sunken-diver-base.glb) · [module](https://polyfork.dev/cdn/sunken-diver-base.mjs) |
+| [Bucket-Horned Scrap Barbarian](https://polyfork.dev/asset/volcano-barbarian-base) |  | 4,958 | [GLB](https://polyfork.dev/cdn/volcano-barbarian-base.glb) · [module](https://polyfork.dev/cdn/volcano-barbarian-base.mjs) |
 | [Bumblebee queen](https://polyfork.dev/asset/bumblebee-queen-base) |  | 3,312 | [GLB](https://polyfork.dev/cdn/bumblebee-queen-base.glb) · [module](https://polyfork.dev/cdn/bumblebee-queen-base.mjs) |
 | [Burro With Marigold Panniers](https://polyfork.dev/asset/burro-with-marigold-panniers-1f04ab) | [Día de Muertos kit](../kits/dia-de-muertos-f2f8f8.md) | 3,336 | [GLB](https://polyfork.dev/cdn/burro-with-marigold-panniers-1f04ab.glb) · [module](https://polyfork.dev/cdn/burro-with-marigold-panniers-1f04ab.mjs) |
 | [Butterfly](https://polyfork.dev/asset/butterfly-base) |  | 3,611 | [GLB](https://polyfork.dev/cdn/butterfly-base.glb) · [module](https://polyfork.dev/cdn/butterfly-base.mjs) |
@@ -66,6 +67,7 @@
 | [Duck](https://polyfork.dev/asset/duck-base) |  | 2,958 | [GLB](https://polyfork.dev/cdn/duck-base.glb) · [module](https://polyfork.dev/cdn/duck-base.mjs) |
 | [Dungeon Rat](https://polyfork.dev/asset/dungeon-rat-cbb03c) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 2,304 | [GLB](https://polyfork.dev/cdn/dungeon-rat-cbb03c.glb) · [module](https://polyfork.dev/cdn/dungeon-rat-cbb03c.mjs) |
 | [Dwarf berserker](https://polyfork.dev/asset/dwarf-berserker-base) |  | 5,646 | [GLB](https://polyfork.dev/cdn/dwarf-berserker-base.glb) · [module](https://polyfork.dev/cdn/dwarf-berserker-base.mjs) |
+| [Dwarf priest](https://polyfork.dev/asset/dwarf-priest-base) |  | 6,366 | [GLB](https://polyfork.dev/cdn/dwarf-priest-base.glb) · [module](https://polyfork.dev/cdn/dwarf-priest-base.mjs) |
 | [Earthworm](https://polyfork.dev/asset/earthworm-base) |  | 3,510 | [GLB](https://polyfork.dev/cdn/earthworm-base.glb) · [module](https://polyfork.dev/cdn/earthworm-base.mjs) |
 | [Elderly audience member](https://polyfork.dev/asset/elderly-audience-member-base) |  | 4,194 | [GLB](https://polyfork.dev/cdn/elderly-audience-member-base.glb) · [module](https://polyfork.dev/cdn/elderly-audience-member-base.mjs) |
 | [Elephant](https://polyfork.dev/asset/elephant-base) |  | 3,770 | [GLB](https://polyfork.dev/cdn/elephant-base.glb) · [module](https://polyfork.dev/cdn/elephant-base.mjs) |
@@ -91,6 +93,7 @@
 | [Giant clam](https://polyfork.dev/asset/giant-clam-base) |  | 3,792 | [GLB](https://polyfork.dev/cdn/giant-clam-base.glb) · [module](https://polyfork.dev/cdn/giant-clam-base.mjs) |
 | [Giraffe](https://polyfork.dev/asset/giraffe-base) |  | 3,956 | [GLB](https://polyfork.dev/cdn/giraffe-base.glb) · [module](https://polyfork.dev/cdn/giraffe-base.mjs) |
 | [Gnome mage](https://polyfork.dev/asset/gnome-mage-base) |  | 5,618 | [GLB](https://polyfork.dev/cdn/gnome-mage-base.glb) · [module](https://polyfork.dev/cdn/gnome-mage-base.mjs) |
+| [Gnome warrior](https://polyfork.dev/asset/gnome-warrior-base) |  | 6,067 | [GLB](https://polyfork.dev/cdn/gnome-warrior-base.glb) · [module](https://polyfork.dev/cdn/gnome-warrior-base.mjs) |
 | [Goat](https://polyfork.dev/asset/goat-base) |  | 2,446 | [GLB](https://polyfork.dev/cdn/goat-base.glb) · [module](https://polyfork.dev/cdn/goat-base.mjs) |
 | [Goblin mage](https://polyfork.dev/asset/goblin-mage-base) |  | 6,282 | [GLB](https://polyfork.dev/cdn/goblin-mage-base.glb) · [module](https://polyfork.dev/cdn/goblin-mage-base.mjs) |
 | [Great Barracuda](https://polyfork.dev/asset/great-barracuda-8dd12b) | [Coral Reef](../kits/coral-reef-a7128a.md) | 2,918 | [GLB](https://polyfork.dev/cdn/great-barracuda-8dd12b.glb) · [module](https://polyfork.dev/cdn/great-barracuda-8dd12b.mjs) |
@@ -107,6 +110,7 @@
 | [Hook-Handed Swamp Butcher](https://polyfork.dev/asset/swamp-butcher-base) |  | 4,997 | [GLB](https://polyfork.dev/cdn/swamp-butcher-base.glb) · [module](https://polyfork.dev/cdn/swamp-butcher-base.mjs) |
 | [Horse](https://polyfork.dev/asset/horse-base) |  | 2,096 | [GLB](https://polyfork.dev/cdn/horse-base.glb) · [module](https://polyfork.dev/cdn/horse-base.mjs) |
 | [Hospital nurse](https://polyfork.dev/asset/hospital-nurse-base) |  | 4,856 | [GLB](https://polyfork.dev/cdn/hospital-nurse-base.glb) · [module](https://polyfork.dev/cdn/hospital-nurse-base.mjs) |
+| [Human mage](https://polyfork.dev/asset/human-mage-base) |  | 5,480 | [GLB](https://polyfork.dev/cdn/human-mage-base.glb) · [module](https://polyfork.dev/cdn/human-mage-base.mjs) |
 | [Human-Faced Wax Moth](https://polyfork.dev/asset/honey-moth-base) |  | 3,773 | [GLB](https://polyfork.dev/cdn/honey-moth-base.glb) · [module](https://polyfork.dev/cdn/honey-moth-base.mjs) |
 | [Jellyfish](https://polyfork.dev/asset/jellyfish-base) |  | 3,500 | [GLB](https://polyfork.dev/cdn/jellyfish-base.glb) · [module](https://polyfork.dev/cdn/jellyfish-base.mjs) |
 | [Kid in a puffy coat](https://polyfork.dev/asset/kid-in-a-puffy-coat-base) |  | 4,130 | [GLB](https://polyfork.dev/cdn/kid-in-a-puffy-coat-base.glb) · [module](https://polyfork.dev/cdn/kid-in-a-puffy-coat-base.mjs) |
@@ -143,6 +147,7 @@
 | [Pig](https://polyfork.dev/asset/pig-base) |  | 2,890 | [GLB](https://polyfork.dev/cdn/pig-base.glb) · [module](https://polyfork.dev/cdn/pig-base.mjs) |
 | [Pigeon](https://polyfork.dev/asset/pigeon-base) |  | 2,328 | [GLB](https://polyfork.dev/cdn/pigeon-base.glb) · [module](https://polyfork.dev/cdn/pigeon-base.mjs) |
 | [Pill woodlouse](https://polyfork.dev/asset/pill-woodlouse-base) |  | 2,826 | [GLB](https://polyfork.dev/cdn/pill-woodlouse-base.glb) · [module](https://polyfork.dev/cdn/pill-woodlouse-base.mjs) |
+| [Pit-Eyed Fungus Host](https://polyfork.dev/asset/fungus-host-base) |  | 4,867 | [GLB](https://polyfork.dev/cdn/fungus-host-base.glb) · [module](https://polyfork.dev/cdn/fungus-host-base.mjs) |
 | [Plesiosaurus](https://polyfork.dev/asset/plesiosaurus-base) |  | 2,944 | [GLB](https://polyfork.dev/cdn/plesiosaurus-base.glb) · [module](https://polyfork.dev/cdn/plesiosaurus-base.mjs) |
 | [Pond skater](https://polyfork.dev/asset/pond-skater-base) |  | 1,896 | [GLB](https://polyfork.dev/cdn/pond-skater-base.glb) · [module](https://polyfork.dev/cdn/pond-skater-base.mjs) |
 | [Praying mantis](https://polyfork.dev/asset/praying-mantis-base) |  | 2,926 | [GLB](https://polyfork.dev/cdn/praying-mantis-base.glb) · [module](https://polyfork.dev/cdn/praying-mantis-base.mjs) |
@@ -152,6 +157,7 @@
 | [Rabbit](https://polyfork.dev/asset/rabbit-base) |  | 2,074 | [GLB](https://polyfork.dev/cdn/rabbit-base.glb) · [module](https://polyfork.dev/cdn/rabbit-base.mjs) |
 | [Rabbitfish](https://polyfork.dev/asset/rabbitfish-base) |  | 2,474 | [GLB](https://polyfork.dev/cdn/rabbitfish-base.glb) · [module](https://polyfork.dev/cdn/rabbitfish-base.mjs) |
 | [Rat](https://polyfork.dev/asset/rat-base) |  | 2,304 | [GLB](https://polyfork.dev/cdn/rat-base.glb) · [module](https://polyfork.dev/cdn/rat-base.mjs) |
+| [Rat-Snouted Kobold](https://polyfork.dev/asset/rat-kobold-base) |  | 4,994 | [GLB](https://polyfork.dev/cdn/rat-kobold-base.glb) · [module](https://polyfork.dev/cdn/rat-kobold-base.mjs) |
 | [Red fire dragon](https://polyfork.dev/asset/red-fire-dragon-base) |  | 3,572 | [GLB](https://polyfork.dev/cdn/red-fire-dragon-base.glb) · [module](https://polyfork.dev/cdn/red-fire-dragon-base.mjs) |
 | [Red fire dragonling](https://polyfork.dev/asset/red-fire-dragonling-base) |  | 2,974 | [GLB](https://polyfork.dev/cdn/red-fire-dragonling-base.glb) · [module](https://polyfork.dev/cdn/red-fire-dragonling-base.mjs) |
 | [Red Fox](https://polyfork.dev/asset/red-fox-5c3bc0) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 2,280 | [GLB](https://polyfork.dev/cdn/red-fox-5c3bc0.glb) · [module](https://polyfork.dev/cdn/red-fox-5c3bc0.mjs) |
@@ -184,6 +190,7 @@
 | [Spear soldier](https://polyfork.dev/asset/spear-soldier-base) |  | 4,962 | [GLB](https://polyfork.dev/cdn/spear-soldier-base.glb) · [module](https://polyfork.dev/cdn/spear-soldier-base.mjs) |
 | [Spectral stag](https://polyfork.dev/asset/spectral-stag-base) |  | 2,726 | [GLB](https://polyfork.dev/cdn/spectral-stag-base.glb) · [module](https://polyfork.dev/cdn/spectral-stag-base.mjs) |
 | [Stag beetle](https://polyfork.dev/asset/stag-beetle-base) |  | 2,706 | [GLB](https://polyfork.dev/cdn/stag-beetle-base.glb) · [module](https://polyfork.dev/cdn/stag-beetle-base.mjs) |
+| [Stag-Skull Wendigo Hunter](https://polyfork.dev/asset/wendigo-hunter-base) |  | 4,956 | [GLB](https://polyfork.dev/cdn/wendigo-hunter-base.glb) · [module](https://polyfork.dev/cdn/wendigo-hunter-base.mjs) |
 | [Standing double bass player](https://polyfork.dev/asset/standing-double-bass-player-base) |  | 6,024 | [GLB](https://polyfork.dev/cdn/standing-double-bass-player-base.glb) · [module](https://polyfork.dev/cdn/standing-double-bass-player-base.mjs) |
 | [Standing percussionist](https://polyfork.dev/asset/standing-percussionist-base) |  | 4,862 | [GLB](https://polyfork.dev/cdn/standing-percussionist-base.glb) · [module](https://polyfork.dev/cdn/standing-percussionist-base.mjs) |
 | [Starfish](https://polyfork.dev/asset/starfish-772749) | [Coral Reef](../kits/coral-reef-a7128a.md) | 1,096 | [GLB](https://polyfork.dev/cdn/starfish-772749.glb) · [module](https://polyfork.dev/cdn/starfish-772749.mjs) |
